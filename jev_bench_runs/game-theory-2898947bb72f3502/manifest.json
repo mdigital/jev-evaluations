@@ -1,0 +1,23 @@
+{
+  "benchmark": "game_theory_2x2",
+  "version": "1.0",
+  "model": "typesafe/jev-1.13",
+  "design_id": "2898947bb72f3502",
+  "trials": 2184,
+  "distinct_requests": 2024,
+  "collected_ok": 2184,
+  "total_cost_usd": 0.05977624799999999,
+  "blocks": {
+    "delta_sweep": 792,
+    "greed_fear": 432,
+    "horizon": 224,
+    "opponent": 192,
+    "framing": 192,
+    "affine": 192,
+    "family": 160
+  },
+  "created_at": "2026-09-25T03:43:53.295585+00:00",
+  "python": "3.10.18",
+  "platform": "macOS-15.6.1-arm64-arm-64bit",
+  "pandas": "2.3.1"
+}

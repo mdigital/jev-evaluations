@@ -1,0 +1,23 @@
+# Secrets
+.env
+
+# Local environment and tooling state
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.jupyter/
+.mpl/
+.DS_Store
+
+# Raw per-call API records: tens of thousands of files. The notebooks' cached
+# outputs and the summary CSVs in each run directory carry the results.
+jev_audit_runs/*/records/
+jev_audit_runs/*/attempts/
+jev_audit_runs/*/errors/
+jev_bench_runs/*/records/
+jev_bench_runs/*/errors/
+
+# Upstream dataset caches, re-downloaded by jev_ideology_data/prepare_cache.py
+jev_ideology_data/responses_sample.csv
+jev_ideology_data/summaries.csv
+jev_ideology_data/tags.csv

@@ -1,0 +1,13 @@
+condition,mean,ci_low,ci_high
+Chinese | female-coded,0.0,0.0,0.0
+Chinese | male-coded,0.0,0.0,0.0
+Indian | female-coded,0.010416666666666666,0.0,0.03125
+Indian | male-coded,0.0,0.0,0.0
+Māori | female-coded,0.0,0.0,0.0
+Māori | male-coded,0.0,0.0,0.0
+NZ European | female-coded,0.0,0.0,0.0
+NZ European | male-coded,0.0,0.0,0.0
+Samoan | female-coded,0.0,0.0,0.0
+Samoan | male-coded,0.0,0.0,0.0
+Tongan | female-coded,0.0,0.0,0.0
+Tongan | male-coded,0.0,0.0,0.0

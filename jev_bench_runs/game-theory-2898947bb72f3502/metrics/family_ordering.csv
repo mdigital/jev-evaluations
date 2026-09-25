@@ -1,0 +1,6 @@
+family,n,p_coop,dominant,ci_low,ci_high,theory_rank,observed_rank
+harmony,32,0.8878125,cooperate,0.8759375,0.8990625,0,0
+stag_hunt,32,0.724375,,0.7153125,0.7337578124999999,1,1
+chicken,32,0.4240625,,0.405625,0.44156249999999997,2,2
+prisoners_dilemma,32,0.2740625,defect,0.26,0.2890625,3,3
+deadlock,32,0.0871875,defect,0.076875,0.0978125,4,4

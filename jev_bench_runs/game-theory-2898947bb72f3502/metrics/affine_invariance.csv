@@ -1,0 +1,3 @@
+base_family,levels,min,max,range,sd,argmin,argmax
+harmony,6,0.901875,0.988125,0.08625000000000005,0.035319259431725855,identity,shift_up
+prisoners_dilemma,6,0.200625,0.48,0.279375,0.10213136625063929,shift_up,tenth

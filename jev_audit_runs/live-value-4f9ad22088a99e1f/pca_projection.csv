@@ -1,0 +1,81 @@
+respondent,model,language,source,pc1,pc2
+Baichuan | Chinese (Simplified),Baichuan,Chinese (Simplified),published,-0.3410172444854832,-0.08279329138076247
+Baichuan | English,Baichuan,English,published,0.27530695529592947,0.0015017400499062888
+Claude | Arabic,Claude,Arabic,published,-0.12656835954207468,-0.02324422288360043
+Claude | Chinese (Simplified),Claude,Chinese (Simplified),published,-0.11113221759641492,-0.0399209295634285
+Claude | English,Claude,English,published,-0.09948361318466142,0.03326523312828597
+Claude | French,Claude,French,published,-0.0006543313082333785,0.06787964099206428
+Claude | Russian,Claude,Russian,published,-0.3782466026633535,-0.03993022531625984
+Claude | Spanish,Claude,Spanish,published,-0.04520500205348034,0.08590358790701005
+DeepSeek | Arabic,DeepSeek,Arabic,published,-0.05192165290074589,-0.0764988552038608
+DeepSeek | Chinese (Simplified),DeepSeek,Chinese (Simplified),published,-0.007287260597088309,-0.112443110116686
+DeepSeek | English,DeepSeek,English,published,0.0872616948167576,0.0527979348599297
+DeepSeek | French,DeepSeek,French,published,0.07657214140034323,-0.01257991687130114
+DeepSeek | Russian,DeepSeek,Russian,published,-0.0938942622297587,0.0028522294829623727
+DeepSeek | Spanish,DeepSeek,Spanish,published,0.05716947410957241,-0.00242539112579857
+GPT-4o | Arabic,GPT-4o,Arabic,published,0.12093180163562853,0.008099792839411826
+GPT-4o | Chinese (Simplified),GPT-4o,Chinese (Simplified),published,0.004411899827604481,0.0006251510677766919
+GPT-4o | English,GPT-4o,English,published,-0.15978406126563563,0.02290726225183582
+GPT-4o | French,GPT-4o,French,published,-0.09215913816136931,0.02417299838602227
+GPT-4o | Russian,GPT-4o,Russian,published,-0.2355619143489181,-0.019364038765159387
+GPT-4o | Spanish,GPT-4o,Spanish,published,-0.099632180135756,0.045777465091620784
+Gemini | Arabic,Gemini,Arabic,published,0.08938845543605554,0.0484087027973384
+Gemini | Chinese (Simplified),Gemini,Chinese (Simplified),published,0.1883127148211833,0.00936809166097575
+Gemini | English,Gemini,English,published,0.2144887075715864,-0.0003150543706977354
+Gemini | French,Gemini,French,published,0.26671729189947363,0.09883653574925674
+Gemini | Russian,Gemini,Russian,published,0.23064084322241996,0.06325645413784708
+Gemini | Spanish,Gemini,Spanish,published,0.32266594974416374,0.1077734623797597
+GigaChat | English,GigaChat,English,published,0.06979656156267086,0.08731643274665173
+GigaChat | Russian,GigaChat,Russian,published,-0.0659130438762869,0.030496997943628902
+Grok | Arabic,Grok,Arabic,published,-0.008839059789985634,-0.01884757562023177
+Grok | Chinese (Simplified),Grok,Chinese (Simplified),published,-0.07425456497937516,-0.031772956831844355
+Grok | English,Grok,English,published,-0.12050053780450078,0.005846817925117954
+Grok | French,Grok,French,published,-0.10517006069052925,0.03725019871369021
+Grok | Russian,Grok,Russian,published,-0.22302260185637537,-0.0009329968610978218
+Grok | Spanish,Grok,Spanish,published,-0.08048180939096566,0.06126120075683283
+Jais | Arabic,Jais,Arabic,published,-0.07087829139801513,-0.09070062103679594
+Jais | English,Jais,English,published,-0.43682655714680413,-0.12205656569891003
+Jamba | Arabic,Jamba,Arabic,published,-0.006130610270656535,0.07280248934209171
+Jamba | English,Jamba,English,published,0.06791381345300118,0.09589965847222562
+Jamba | French,Jamba,French,published,-0.027069359495974006,0.09530878221997034
+Jamba | Spanish,Jamba,Spanish,published,0.08640438175681389,0.08672219544832291
+LLaMA-3.1 | English,LLaMA-3.1,English,published,0.21961311270576983,0.07754600075925723
+LLaMA-3.1 | French,LLaMA-3.1,French,published,0.2235724940008814,0.08126106980301494
+LLaMA-3.1 | Spanish,LLaMA-3.1,Spanish,published,0.19921314463337075,0.08359443398497719
+LLaMA-3.2 | English,LLaMA-3.2,English,published,0.2014674948508642,0.11124979058029469
+LLaMA-3.2 | French,LLaMA-3.2,French,published,-0.16783546795123144,0.10270075588117494
+LLaMA-3.2 | Spanish,LLaMA-3.2,Spanish,published,-0.07025908398025613,-0.0076241453662454295
+Mistral | Arabic,Mistral,Arabic,published,0.0006200589195191297,0.06897125283551318
+Mistral | Chinese (Simplified),Mistral,Chinese (Simplified),published,0.015145241118999389,0.00949166124583618
+Mistral | English,Mistral,English,published,-0.051435011153919824,0.017741848880762995
+Mistral | French,Mistral,French,published,0.10583254500237801,0.08220924026390351
+Mistral | Russian,Mistral,Russian,published,-0.22616458184484767,-0.0016188058274626885
+Mistral | Spanish,Mistral,Spanish,published,0.09837840419523058,0.0702469707670656
+Mixtral | Arabic,Mixtral,Arabic,published,0.1494090089252268,-0.2856381061930697
+Mixtral | Chinese (Simplified),Mixtral,Chinese (Simplified),published,0.17401627880478313,-0.03942409502707928
+Mixtral | English,Mixtral,English,published,0.04630000282135145,0.07119020879071083
+Mixtral | French,Mixtral,French,published,0.23618642591883582,0.11516566727872586
+Mixtral | Russian,Mixtral,Russian,published,-0.17854741605557253,0.03791782524939273
+Mixtral | Spanish,Mixtral,Spanish,published,-0.07239427818108414,0.04411444832798808
+Qwen | Arabic,Qwen,Arabic,published,0.12454960765054168,0.000859197640165286
+Qwen | Chinese (Simplified),Qwen,Chinese (Simplified),published,0.093265374225638,-0.033468192996439126
+Qwen | English,Qwen,English,published,0.02447385040262075,0.0577704182812461
+Qwen | French,Qwen,French,published,0.020629110927350043,0.014565970674105791
+Qwen | Russian,Qwen,Russian,published,-0.10375508666714583,0.007206128504298826
+Qwen | Spanish,Qwen,Spanish,published,0.05826560902993607,0.045179842129647624
+Silma | Arabic,Silma,Arabic,published,-0.3336429326675006,-0.17040836350482205
+Silma | English,Silma,English,published,-0.16025151618362807,-0.051237292902368926
+Teuken | English,Teuken,English,published,-0.13026779501996544,-0.2061233695310201
+Teuken | French,Teuken,French,published,0.4198127446519779,-0.3527826684020499
+Teuken | Spanish,Teuken,Spanish,published,0.4495159985340716,-0.4130703110152378
+Vikhr | English,Vikhr,English,published,0.15254006818398466,0.032090686263314586
+Vikhr | Russian,Vikhr,Russian,published,-0.03184208474848679,0.04596148730259277
+Wenxiaoyan | Chinese (Simplified),Wenxiaoyan,Chinese (Simplified),published,-0.03953506274043846,-0.17173279970053892
+Wenxiaoyan | English,Wenxiaoyan,English,published,-0.03850587339787618,-0.14848310655256233
+YandexGPT | English,YandexGPT,English,published,0.06405834700564658,0.021961711821544574
+YandexGPT | French,YandexGPT,French,published,-0.13320837375108774,0.10908827641050349
+YandexGPT | Russian,YandexGPT,Russian,published,-0.18516674641931755,-0.028255299531517467
+YandexGPT | Spanish,YandexGPT,Spanish,published,-0.25040196112737967,0.029276358170268624
+JEV | name_only,JEV,English,jev,0.06500970513393667,-0.05860408057011262
+JEV | with_summary,JEV,English,jev,0.2540077518872781,-0.00927036985530886
+JEV | stage2_judge,JEV,English,jev,0.11309702217322404,0.01732417237287265

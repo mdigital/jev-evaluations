@@ -1,0 +1,11 @@
+{
+  "python": "3.10.18 (main, Jul 23 2025, 00:27:13) [Clang 20.1.4 ]",
+  "platform": "macOS-15.6.1-arm64-arm-64bit",
+  "packages": {
+    "numpy": "2.2.6",
+    "pandas": "2.3.1",
+    "matplotlib": "3.10.3",
+    "requests": "2.32.4",
+    "jsonschema": "4.26.0"
+  }
+}

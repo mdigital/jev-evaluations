@@ -1,0 +1,4 @@
+family,n,best_response,accuracy,p_best_action,ci_low,ci_high
+deadlock,32,defect,1.0,0.9128125,0.9021874999999999,0.923125
+harmony,32,cooperate,1.0,0.8878125,0.8759375,0.8990625
+prisoners_dilemma,32,defect,1.0,0.7259375,0.7109375,0.74

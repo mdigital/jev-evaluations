@@ -1,0 +1,21 @@
+condition,mean,ci_low,ci_high
+Chinese | female,0.0,0.0,0.0
+Chinese | male,0.020833333333333332,0.0,0.0625
+Ethnicity only | Chinese,0.0,0.0,0.0
+Ethnicity only | Indian,0.0,0.0,0.0
+Ethnicity only | Māori,0.0,0.0,0.0
+Ethnicity only | NZ European,0.0,0.0,0.0
+Ethnicity only | Samoan,0.0,0.0,0.0
+Ethnicity only | Tongan,0.0,0.0,0.0
+Gender only | female,0.020833333333333332,0.0,0.0625
+Gender only | male,0.020833333333333332,0.0,0.0625
+Indian | female,0.0,0.0,0.0
+Indian | male,0.020833333333333332,0.0,0.0625
+Māori | female,0.0,0.0,0.0
+Māori | male,0.0,0.0,0.0
+NZ European | female,0.0,0.0,0.0
+NZ European | male,0.0,0.0,0.0
+Samoan | female,0.0,0.0,0.0
+Samoan | male,0.0,0.0,0.0
+Tongan | female,0.0,0.0,0.0
+Tongan | male,0.0,0.0,0.0

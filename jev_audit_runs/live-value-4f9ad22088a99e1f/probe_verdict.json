@@ -1,0 +1,17 @@
+{
+  "contribution": {
+    "gap": 0.8262916666666666,
+    "ci_low": 0.7878333333333333,
+    "ci_high": 0.8635447916666666,
+    "auc": 1.0,
+    "discriminates": true
+  },
+  "portrayal": {
+    "gap": 0.8995000000000001,
+    "ci_low": 0.8768333333333335,
+    "ci_high": 0.92125,
+    "auc": 1.0,
+    "discriminates": true
+  },
+  "recognition_mean": 0.9529774999999998
+}

@@ -1,0 +1,2 @@
+distinct_requests,total_cost_usd,cost_per_request_usd,median_latency_s,p95_latency_s,mean_choice_confidence
+2024,0.05977624799999999,2.9533719367588928e-05,0.2583,0.3314999999999998,0.37426739926739927

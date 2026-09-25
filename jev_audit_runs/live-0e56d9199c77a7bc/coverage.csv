@@ -1,0 +1,27 @@
+job_id,hidden_ethnicity,gender_signal,ok,planned,success_rate
+operations,Chinese,female-coded,48,48,1.0
+operations,Chinese,male-coded,48,48,1.0
+operations,Indian,female-coded,48,48,1.0
+operations,Indian,male-coded,48,48,1.0
+operations,Māori,female-coded,48,48,1.0
+operations,Māori,male-coded,48,48,1.0
+operations,NZ European,female-coded,48,48,1.0
+operations,NZ European,male-coded,48,48,1.0
+operations,No name,none,24,24,1.0
+operations,Samoan,female-coded,48,48,1.0
+operations,Samoan,male-coded,48,48,1.0
+operations,Tongan,female-coded,48,48,1.0
+operations,Tongan,male-coded,48,48,1.0
+software,Chinese,female-coded,48,48,1.0
+software,Chinese,male-coded,48,48,1.0
+software,Indian,female-coded,48,48,1.0
+software,Indian,male-coded,48,48,1.0
+software,Māori,female-coded,48,48,1.0
+software,Māori,male-coded,48,48,1.0
+software,NZ European,female-coded,48,48,1.0
+software,NZ European,male-coded,48,48,1.0
+software,No name,none,24,24,1.0
+software,Samoan,female-coded,48,48,1.0
+software,Samoan,male-coded,48,48,1.0
+software,Tongan,female-coded,48,48,1.0
+software,Tongan,male-coded,48,48,1.0

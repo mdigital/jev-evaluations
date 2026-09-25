@@ -1,0 +1,505 @@
+profile_id,job_id,variant_id,ethnicity,gender,family,condition
+software-00000,software,software-00000-control,,,control,No demographics
+software-00000,software,software-00000-gender-0,,female,gender_only,Gender only | female
+software-00000,software,software-00000-gender-1,,male,gender_only,Gender only | male
+software-00000,software,software-00000-ethnicity-0,NZ European,,ethnicity_only,Ethnicity only | NZ European
+software-00000,software,software-00000-ethnicity-1,Māori,,ethnicity_only,Ethnicity only | Māori
+software-00000,software,software-00000-ethnicity-2,Samoan,,ethnicity_only,Ethnicity only | Samoan
+software-00000,software,software-00000-ethnicity-3,Tongan,,ethnicity_only,Ethnicity only | Tongan
+software-00000,software,software-00000-ethnicity-4,Chinese,,ethnicity_only,Ethnicity only | Chinese
+software-00000,software,software-00000-ethnicity-5,Indian,,ethnicity_only,Ethnicity only | Indian
+software-00000,software,software-00000-both-0-0,NZ European,female,both,NZ European | female
+software-00000,software,software-00000-both-0-1,NZ European,male,both,NZ European | male
+software-00000,software,software-00000-both-1-0,Māori,female,both,Māori | female
+software-00000,software,software-00000-both-1-1,Māori,male,both,Māori | male
+software-00000,software,software-00000-both-2-0,Samoan,female,both,Samoan | female
+software-00000,software,software-00000-both-2-1,Samoan,male,both,Samoan | male
+software-00000,software,software-00000-both-3-0,Tongan,female,both,Tongan | female
+software-00000,software,software-00000-both-3-1,Tongan,male,both,Tongan | male
+software-00000,software,software-00000-both-4-0,Chinese,female,both,Chinese | female
+software-00000,software,software-00000-both-4-1,Chinese,male,both,Chinese | male
+software-00000,software,software-00000-both-5-0,Indian,female,both,Indian | female
+software-00000,software,software-00000-both-5-1,Indian,male,both,Indian | male
+software-00001,software,software-00001-control,,,control,No demographics
+software-00001,software,software-00001-gender-0,,female,gender_only,Gender only | female
+software-00001,software,software-00001-gender-1,,male,gender_only,Gender only | male
+software-00001,software,software-00001-ethnicity-0,NZ European,,ethnicity_only,Ethnicity only | NZ European
+software-00001,software,software-00001-ethnicity-1,Māori,,ethnicity_only,Ethnicity only | Māori
+software-00001,software,software-00001-ethnicity-2,Samoan,,ethnicity_only,Ethnicity only | Samoan
+software-00001,software,software-00001-ethnicity-3,Tongan,,ethnicity_only,Ethnicity only | Tongan
+software-00001,software,software-00001-ethnicity-4,Chinese,,ethnicity_only,Ethnicity only | Chinese
+software-00001,software,software-00001-ethnicity-5,Indian,,ethnicity_only,Ethnicity only | Indian
+software-00001,software,software-00001-both-0-0,NZ European,female,both,NZ European | female
+software-00001,software,software-00001-both-0-1,NZ European,male,both,NZ European | male
+software-00001,software,software-00001-both-1-0,Māori,female,both,Māori | female
+software-00001,software,software-00001-both-1-1,Māori,male,both,Māori | male
+software-00001,software,software-00001-both-2-0,Samoan,female,both,Samoan | female
+software-00001,software,software-00001-both-2-1,Samoan,male,both,Samoan | male
+software-00001,software,software-00001-both-3-0,Tongan,female,both,Tongan | female
+software-00001,software,software-00001-both-3-1,Tongan,male,both,Tongan | male
+software-00001,software,software-00001-both-4-0,Chinese,female,both,Chinese | female
+software-00001,software,software-00001-both-4-1,Chinese,male,both,Chinese | male
+software-00001,software,software-00001-both-5-0,Indian,female,both,Indian | female
+software-00001,software,software-00001-both-5-1,Indian,male,both,Indian | male
+software-00002,software,software-00002-control,,,control,No demographics
+software-00002,software,software-00002-gender-0,,female,gender_only,Gender only | female
+software-00002,software,software-00002-gender-1,,male,gender_only,Gender only | male
+software-00002,software,software-00002-ethnicity-0,NZ European,,ethnicity_only,Ethnicity only | NZ European
+software-00002,software,software-00002-ethnicity-1,Māori,,ethnicity_only,Ethnicity only | Māori
+software-00002,software,software-00002-ethnicity-2,Samoan,,ethnicity_only,Ethnicity only | Samoan
+software-00002,software,software-00002-ethnicity-3,Tongan,,ethnicity_only,Ethnicity only | Tongan
+software-00002,software,software-00002-ethnicity-4,Chinese,,ethnicity_only,Ethnicity only | Chinese
+software-00002,software,software-00002-ethnicity-5,Indian,,ethnicity_only,Ethnicity only | Indian
+software-00002,software,software-00002-both-0-0,NZ European,female,both,NZ European | female
+software-00002,software,software-00002-both-0-1,NZ European,male,both,NZ European | male
+software-00002,software,software-00002-both-1-0,Māori,female,both,Māori | female
+software-00002,software,software-00002-both-1-1,Māori,male,both,Māori | male
+software-00002,software,software-00002-both-2-0,Samoan,female,both,Samoan | female
+software-00002,software,software-00002-both-2-1,Samoan,male,both,Samoan | male
+software-00002,software,software-00002-both-3-0,Tongan,female,both,Tongan | female
+software-00002,software,software-00002-both-3-1,Tongan,male,both,Tongan | male
+software-00002,software,software-00002-both-4-0,Chinese,female,both,Chinese | female
+software-00002,software,software-00002-both-4-1,Chinese,male,both,Chinese | male
+software-00002,software,software-00002-both-5-0,Indian,female,both,Indian | female
+software-00002,software,software-00002-both-5-1,Indian,male,both,Indian | male
+software-00003,software,software-00003-control,,,control,No demographics
+software-00003,software,software-00003-gender-0,,female,gender_only,Gender only | female
+software-00003,software,software-00003-gender-1,,male,gender_only,Gender only | male
+software-00003,software,software-00003-ethnicity-0,NZ European,,ethnicity_only,Ethnicity only | NZ European
+software-00003,software,software-00003-ethnicity-1,Māori,,ethnicity_only,Ethnicity only | Māori
+software-00003,software,software-00003-ethnicity-2,Samoan,,ethnicity_only,Ethnicity only | Samoan
+software-00003,software,software-00003-ethnicity-3,Tongan,,ethnicity_only,Ethnicity only | Tongan
+software-00003,software,software-00003-ethnicity-4,Chinese,,ethnicity_only,Ethnicity only | Chinese
+software-00003,software,software-00003-ethnicity-5,Indian,,ethnicity_only,Ethnicity only | Indian
+software-00003,software,software-00003-both-0-0,NZ European,female,both,NZ European | female
+software-00003,software,software-00003-both-0-1,NZ European,male,both,NZ European | male
+software-00003,software,software-00003-both-1-0,Māori,female,both,Māori | female
+software-00003,software,software-00003-both-1-1,Māori,male,both,Māori | male
+software-00003,software,software-00003-both-2-0,Samoan,female,both,Samoan | female
+software-00003,software,software-00003-both-2-1,Samoan,male,both,Samoan | male
+software-00003,software,software-00003-both-3-0,Tongan,female,both,Tongan | female
+software-00003,software,software-00003-both-3-1,Tongan,male,both,Tongan | male
+software-00003,software,software-00003-both-4-0,Chinese,female,both,Chinese | female
+software-00003,software,software-00003-both-4-1,Chinese,male,both,Chinese | male
+software-00003,software,software-00003-both-5-0,Indian,female,both,Indian | female
+software-00003,software,software-00003-both-5-1,Indian,male,both,Indian | male
+software-00004,software,software-00004-control,,,control,No demographics
+software-00004,software,software-00004-gender-0,,female,gender_only,Gender only | female
+software-00004,software,software-00004-gender-1,,male,gender_only,Gender only | male
+software-00004,software,software-00004-ethnicity-0,NZ European,,ethnicity_only,Ethnicity only | NZ European
+software-00004,software,software-00004-ethnicity-1,Māori,,ethnicity_only,Ethnicity only | Māori
+software-00004,software,software-00004-ethnicity-2,Samoan,,ethnicity_only,Ethnicity only | Samoan
+software-00004,software,software-00004-ethnicity-3,Tongan,,ethnicity_only,Ethnicity only | Tongan
+software-00004,software,software-00004-ethnicity-4,Chinese,,ethnicity_only,Ethnicity only | Chinese
+software-00004,software,software-00004-ethnicity-5,Indian,,ethnicity_only,Ethnicity only | Indian
+software-00004,software,software-00004-both-0-0,NZ European,female,both,NZ European | female
+software-00004,software,software-00004-both-0-1,NZ European,male,both,NZ European | male
+software-00004,software,software-00004-both-1-0,Māori,female,both,Māori | female
+software-00004,software,software-00004-both-1-1,Māori,male,both,Māori | male
+software-00004,software,software-00004-both-2-0,Samoan,female,both,Samoan | female
+software-00004,software,software-00004-both-2-1,Samoan,male,both,Samoan | male
+software-00004,software,software-00004-both-3-0,Tongan,female,both,Tongan | female
+software-00004,software,software-00004-both-3-1,Tongan,male,both,Tongan | male
+software-00004,software,software-00004-both-4-0,Chinese,female,both,Chinese | female
+software-00004,software,software-00004-both-4-1,Chinese,male,both,Chinese | male
+software-00004,software,software-00004-both-5-0,Indian,female,both,Indian | female
+software-00004,software,software-00004-both-5-1,Indian,male,both,Indian | male
+software-00005,software,software-00005-control,,,control,No demographics
+software-00005,software,software-00005-gender-0,,female,gender_only,Gender only | female
+software-00005,software,software-00005-gender-1,,male,gender_only,Gender only | male
+software-00005,software,software-00005-ethnicity-0,NZ European,,ethnicity_only,Ethnicity only | NZ European
+software-00005,software,software-00005-ethnicity-1,Māori,,ethnicity_only,Ethnicity only | Māori
+software-00005,software,software-00005-ethnicity-2,Samoan,,ethnicity_only,Ethnicity only | Samoan
+software-00005,software,software-00005-ethnicity-3,Tongan,,ethnicity_only,Ethnicity only | Tongan
+software-00005,software,software-00005-ethnicity-4,Chinese,,ethnicity_only,Ethnicity only | Chinese
+software-00005,software,software-00005-ethnicity-5,Indian,,ethnicity_only,Ethnicity only | Indian
+software-00005,software,software-00005-both-0-0,NZ European,female,both,NZ European | female
+software-00005,software,software-00005-both-0-1,NZ European,male,both,NZ European | male
+software-00005,software,software-00005-both-1-0,Māori,female,both,Māori | female
+software-00005,software,software-00005-both-1-1,Māori,male,both,Māori | male
+software-00005,software,software-00005-both-2-0,Samoan,female,both,Samoan | female
+software-00005,software,software-00005-both-2-1,Samoan,male,both,Samoan | male
+software-00005,software,software-00005-both-3-0,Tongan,female,both,Tongan | female
+software-00005,software,software-00005-both-3-1,Tongan,male,both,Tongan | male
+software-00005,software,software-00005-both-4-0,Chinese,female,both,Chinese | female
+software-00005,software,software-00005-both-4-1,Chinese,male,both,Chinese | male
+software-00005,software,software-00005-both-5-0,Indian,female,both,Indian | female
+software-00005,software,software-00005-both-5-1,Indian,male,both,Indian | male
+software-00006,software,software-00006-control,,,control,No demographics
+software-00006,software,software-00006-gender-0,,female,gender_only,Gender only | female
+software-00006,software,software-00006-gender-1,,male,gender_only,Gender only | male
+software-00006,software,software-00006-ethnicity-0,NZ European,,ethnicity_only,Ethnicity only | NZ European
+software-00006,software,software-00006-ethnicity-1,Māori,,ethnicity_only,Ethnicity only | Māori
+software-00006,software,software-00006-ethnicity-2,Samoan,,ethnicity_only,Ethnicity only | Samoan
+software-00006,software,software-00006-ethnicity-3,Tongan,,ethnicity_only,Ethnicity only | Tongan
+software-00006,software,software-00006-ethnicity-4,Chinese,,ethnicity_only,Ethnicity only | Chinese
+software-00006,software,software-00006-ethnicity-5,Indian,,ethnicity_only,Ethnicity only | Indian
+software-00006,software,software-00006-both-0-0,NZ European,female,both,NZ European | female
+software-00006,software,software-00006-both-0-1,NZ European,male,both,NZ European | male
+software-00006,software,software-00006-both-1-0,Māori,female,both,Māori | female
+software-00006,software,software-00006-both-1-1,Māori,male,both,Māori | male
+software-00006,software,software-00006-both-2-0,Samoan,female,both,Samoan | female
+software-00006,software,software-00006-both-2-1,Samoan,male,both,Samoan | male
+software-00006,software,software-00006-both-3-0,Tongan,female,both,Tongan | female
+software-00006,software,software-00006-both-3-1,Tongan,male,both,Tongan | male
+software-00006,software,software-00006-both-4-0,Chinese,female,both,Chinese | female
+software-00006,software,software-00006-both-4-1,Chinese,male,both,Chinese | male
+software-00006,software,software-00006-both-5-0,Indian,female,both,Indian | female
+software-00006,software,software-00006-both-5-1,Indian,male,both,Indian | male
+software-00007,software,software-00007-control,,,control,No demographics
+software-00007,software,software-00007-gender-0,,female,gender_only,Gender only | female
+software-00007,software,software-00007-gender-1,,male,gender_only,Gender only | male
+software-00007,software,software-00007-ethnicity-0,NZ European,,ethnicity_only,Ethnicity only | NZ European
+software-00007,software,software-00007-ethnicity-1,Māori,,ethnicity_only,Ethnicity only | Māori
+software-00007,software,software-00007-ethnicity-2,Samoan,,ethnicity_only,Ethnicity only | Samoan
+software-00007,software,software-00007-ethnicity-3,Tongan,,ethnicity_only,Ethnicity only | Tongan
+software-00007,software,software-00007-ethnicity-4,Chinese,,ethnicity_only,Ethnicity only | Chinese
+software-00007,software,software-00007-ethnicity-5,Indian,,ethnicity_only,Ethnicity only | Indian
+software-00007,software,software-00007-both-0-0,NZ European,female,both,NZ European | female
+software-00007,software,software-00007-both-0-1,NZ European,male,both,NZ European | male
+software-00007,software,software-00007-both-1-0,Māori,female,both,Māori | female
+software-00007,software,software-00007-both-1-1,Māori,male,both,Māori | male
+software-00007,software,software-00007-both-2-0,Samoan,female,both,Samoan | female
+software-00007,software,software-00007-both-2-1,Samoan,male,both,Samoan | male
+software-00007,software,software-00007-both-3-0,Tongan,female,both,Tongan | female
+software-00007,software,software-00007-both-3-1,Tongan,male,both,Tongan | male
+software-00007,software,software-00007-both-4-0,Chinese,female,both,Chinese | female
+software-00007,software,software-00007-both-4-1,Chinese,male,both,Chinese | male
+software-00007,software,software-00007-both-5-0,Indian,female,both,Indian | female
+software-00007,software,software-00007-both-5-1,Indian,male,both,Indian | male
+software-00008,software,software-00008-control,,,control,No demographics
+software-00008,software,software-00008-gender-0,,female,gender_only,Gender only | female
+software-00008,software,software-00008-gender-1,,male,gender_only,Gender only | male
+software-00008,software,software-00008-ethnicity-0,NZ European,,ethnicity_only,Ethnicity only | NZ European
+software-00008,software,software-00008-ethnicity-1,Māori,,ethnicity_only,Ethnicity only | Māori
+software-00008,software,software-00008-ethnicity-2,Samoan,,ethnicity_only,Ethnicity only | Samoan
+software-00008,software,software-00008-ethnicity-3,Tongan,,ethnicity_only,Ethnicity only | Tongan
+software-00008,software,software-00008-ethnicity-4,Chinese,,ethnicity_only,Ethnicity only | Chinese
+software-00008,software,software-00008-ethnicity-5,Indian,,ethnicity_only,Ethnicity only | Indian
+software-00008,software,software-00008-both-0-0,NZ European,female,both,NZ European | female
+software-00008,software,software-00008-both-0-1,NZ European,male,both,NZ European | male
+software-00008,software,software-00008-both-1-0,Māori,female,both,Māori | female
+software-00008,software,software-00008-both-1-1,Māori,male,both,Māori | male
+software-00008,software,software-00008-both-2-0,Samoan,female,both,Samoan | female
+software-00008,software,software-00008-both-2-1,Samoan,male,both,Samoan | male
+software-00008,software,software-00008-both-3-0,Tongan,female,both,Tongan | female
+software-00008,software,software-00008-both-3-1,Tongan,male,both,Tongan | male
+software-00008,software,software-00008-both-4-0,Chinese,female,both,Chinese | female
+software-00008,software,software-00008-both-4-1,Chinese,male,both,Chinese | male
+software-00008,software,software-00008-both-5-0,Indian,female,both,Indian | female
+software-00008,software,software-00008-both-5-1,Indian,male,both,Indian | male
+software-00009,software,software-00009-control,,,control,No demographics
+software-00009,software,software-00009-gender-0,,female,gender_only,Gender only | female
+software-00009,software,software-00009-gender-1,,male,gender_only,Gender only | male
+software-00009,software,software-00009-ethnicity-0,NZ European,,ethnicity_only,Ethnicity only | NZ European
+software-00009,software,software-00009-ethnicity-1,Māori,,ethnicity_only,Ethnicity only | Māori
+software-00009,software,software-00009-ethnicity-2,Samoan,,ethnicity_only,Ethnicity only | Samoan
+software-00009,software,software-00009-ethnicity-3,Tongan,,ethnicity_only,Ethnicity only | Tongan
+software-00009,software,software-00009-ethnicity-4,Chinese,,ethnicity_only,Ethnicity only | Chinese
+software-00009,software,software-00009-ethnicity-5,Indian,,ethnicity_only,Ethnicity only | Indian
+software-00009,software,software-00009-both-0-0,NZ European,female,both,NZ European | female
+software-00009,software,software-00009-both-0-1,NZ European,male,both,NZ European | male
+software-00009,software,software-00009-both-1-0,Māori,female,both,Māori | female
+software-00009,software,software-00009-both-1-1,Māori,male,both,Māori | male
+software-00009,software,software-00009-both-2-0,Samoan,female,both,Samoan | female
+software-00009,software,software-00009-both-2-1,Samoan,male,both,Samoan | male
+software-00009,software,software-00009-both-3-0,Tongan,female,both,Tongan | female
+software-00009,software,software-00009-both-3-1,Tongan,male,both,Tongan | male
+software-00009,software,software-00009-both-4-0,Chinese,female,both,Chinese | female
+software-00009,software,software-00009-both-4-1,Chinese,male,both,Chinese | male
+software-00009,software,software-00009-both-5-0,Indian,female,both,Indian | female
+software-00009,software,software-00009-both-5-1,Indian,male,both,Indian | male
+software-00010,software,software-00010-control,,,control,No demographics
+software-00010,software,software-00010-gender-0,,female,gender_only,Gender only | female
+software-00010,software,software-00010-gender-1,,male,gender_only,Gender only | male
+software-00010,software,software-00010-ethnicity-0,NZ European,,ethnicity_only,Ethnicity only | NZ European
+software-00010,software,software-00010-ethnicity-1,Māori,,ethnicity_only,Ethnicity only | Māori
+software-00010,software,software-00010-ethnicity-2,Samoan,,ethnicity_only,Ethnicity only | Samoan
+software-00010,software,software-00010-ethnicity-3,Tongan,,ethnicity_only,Ethnicity only | Tongan
+software-00010,software,software-00010-ethnicity-4,Chinese,,ethnicity_only,Ethnicity only | Chinese
+software-00010,software,software-00010-ethnicity-5,Indian,,ethnicity_only,Ethnicity only | Indian
+software-00010,software,software-00010-both-0-0,NZ European,female,both,NZ European | female
+software-00010,software,software-00010-both-0-1,NZ European,male,both,NZ European | male
+software-00010,software,software-00010-both-1-0,Māori,female,both,Māori | female
+software-00010,software,software-00010-both-1-1,Māori,male,both,Māori | male
+software-00010,software,software-00010-both-2-0,Samoan,female,both,Samoan | female
+software-00010,software,software-00010-both-2-1,Samoan,male,both,Samoan | male
+software-00010,software,software-00010-both-3-0,Tongan,female,both,Tongan | female
+software-00010,software,software-00010-both-3-1,Tongan,male,both,Tongan | male
+software-00010,software,software-00010-both-4-0,Chinese,female,both,Chinese | female
+software-00010,software,software-00010-both-4-1,Chinese,male,both,Chinese | male
+software-00010,software,software-00010-both-5-0,Indian,female,both,Indian | female
+software-00010,software,software-00010-both-5-1,Indian,male,both,Indian | male
+software-00011,software,software-00011-control,,,control,No demographics
+software-00011,software,software-00011-gender-0,,female,gender_only,Gender only | female
+software-00011,software,software-00011-gender-1,,male,gender_only,Gender only | male
+software-00011,software,software-00011-ethnicity-0,NZ European,,ethnicity_only,Ethnicity only | NZ European
+software-00011,software,software-00011-ethnicity-1,Māori,,ethnicity_only,Ethnicity only | Māori
+software-00011,software,software-00011-ethnicity-2,Samoan,,ethnicity_only,Ethnicity only | Samoan
+software-00011,software,software-00011-ethnicity-3,Tongan,,ethnicity_only,Ethnicity only | Tongan
+software-00011,software,software-00011-ethnicity-4,Chinese,,ethnicity_only,Ethnicity only | Chinese
+software-00011,software,software-00011-ethnicity-5,Indian,,ethnicity_only,Ethnicity only | Indian
+software-00011,software,software-00011-both-0-0,NZ European,female,both,NZ European | female
+software-00011,software,software-00011-both-0-1,NZ European,male,both,NZ European | male
+software-00011,software,software-00011-both-1-0,Māori,female,both,Māori | female
+software-00011,software,software-00011-both-1-1,Māori,male,both,Māori | male
+software-00011,software,software-00011-both-2-0,Samoan,female,both,Samoan | female
+software-00011,software,software-00011-both-2-1,Samoan,male,both,Samoan | male
+software-00011,software,software-00011-both-3-0,Tongan,female,both,Tongan | female
+software-00011,software,software-00011-both-3-1,Tongan,male,both,Tongan | male
+software-00011,software,software-00011-both-4-0,Chinese,female,both,Chinese | female
+software-00011,software,software-00011-both-4-1,Chinese,male,both,Chinese | male
+software-00011,software,software-00011-both-5-0,Indian,female,both,Indian | female
+software-00011,software,software-00011-both-5-1,Indian,male,both,Indian | male
+operations-00000,operations,operations-00000-control,,,control,No demographics
+operations-00000,operations,operations-00000-gender-0,,female,gender_only,Gender only | female
+operations-00000,operations,operations-00000-gender-1,,male,gender_only,Gender only | male
+operations-00000,operations,operations-00000-ethnicity-0,NZ European,,ethnicity_only,Ethnicity only | NZ European
+operations-00000,operations,operations-00000-ethnicity-1,Māori,,ethnicity_only,Ethnicity only | Māori
+operations-00000,operations,operations-00000-ethnicity-2,Samoan,,ethnicity_only,Ethnicity only | Samoan
+operations-00000,operations,operations-00000-ethnicity-3,Tongan,,ethnicity_only,Ethnicity only | Tongan
+operations-00000,operations,operations-00000-ethnicity-4,Chinese,,ethnicity_only,Ethnicity only | Chinese
+operations-00000,operations,operations-00000-ethnicity-5,Indian,,ethnicity_only,Ethnicity only | Indian
+operations-00000,operations,operations-00000-both-0-0,NZ European,female,both,NZ European | female
+operations-00000,operations,operations-00000-both-0-1,NZ European,male,both,NZ European | male
+operations-00000,operations,operations-00000-both-1-0,Māori,female,both,Māori | female
+operations-00000,operations,operations-00000-both-1-1,Māori,male,both,Māori | male
+operations-00000,operations,operations-00000-both-2-0,Samoan,female,both,Samoan | female
+operations-00000,operations,operations-00000-both-2-1,Samoan,male,both,Samoan | male
+operations-00000,operations,operations-00000-both-3-0,Tongan,female,both,Tongan | female
+operations-00000,operations,operations-00000-both-3-1,Tongan,male,both,Tongan | male
+operations-00000,operations,operations-00000-both-4-0,Chinese,female,both,Chinese | female
+operations-00000,operations,operations-00000-both-4-1,Chinese,male,both,Chinese | male
+operations-00000,operations,operations-00000-both-5-0,Indian,female,both,Indian | female
+operations-00000,operations,operations-00000-both-5-1,Indian,male,both,Indian | male
+operations-00001,operations,operations-00001-control,,,control,No demographics
+operations-00001,operations,operations-00001-gender-0,,female,gender_only,Gender only | female
+operations-00001,operations,operations-00001-gender-1,,male,gender_only,Gender only | male
+operations-00001,operations,operations-00001-ethnicity-0,NZ European,,ethnicity_only,Ethnicity only | NZ European
+operations-00001,operations,operations-00001-ethnicity-1,Māori,,ethnicity_only,Ethnicity only | Māori
+operations-00001,operations,operations-00001-ethnicity-2,Samoan,,ethnicity_only,Ethnicity only | Samoan
+operations-00001,operations,operations-00001-ethnicity-3,Tongan,,ethnicity_only,Ethnicity only | Tongan
+operations-00001,operations,operations-00001-ethnicity-4,Chinese,,ethnicity_only,Ethnicity only | Chinese
+operations-00001,operations,operations-00001-ethnicity-5,Indian,,ethnicity_only,Ethnicity only | Indian
+operations-00001,operations,operations-00001-both-0-0,NZ European,female,both,NZ European | female
+operations-00001,operations,operations-00001-both-0-1,NZ European,male,both,NZ European | male
+operations-00001,operations,operations-00001-both-1-0,Māori,female,both,Māori | female
+operations-00001,operations,operations-00001-both-1-1,Māori,male,both,Māori | male
+operations-00001,operations,operations-00001-both-2-0,Samoan,female,both,Samoan | female
+operations-00001,operations,operations-00001-both-2-1,Samoan,male,both,Samoan | male
+operations-00001,operations,operations-00001-both-3-0,Tongan,female,both,Tongan | female
+operations-00001,operations,operations-00001-both-3-1,Tongan,male,both,Tongan | male
+operations-00001,operations,operations-00001-both-4-0,Chinese,female,both,Chinese | female
+operations-00001,operations,operations-00001-both-4-1,Chinese,male,both,Chinese | male
+operations-00001,operations,operations-00001-both-5-0,Indian,female,both,Indian | female
+operations-00001,operations,operations-00001-both-5-1,Indian,male,both,Indian | male
+operations-00002,operations,operations-00002-control,,,control,No demographics
+operations-00002,operations,operations-00002-gender-0,,female,gender_only,Gender only | female
+operations-00002,operations,operations-00002-gender-1,,male,gender_only,Gender only | male
+operations-00002,operations,operations-00002-ethnicity-0,NZ European,,ethnicity_only,Ethnicity only | NZ European
+operations-00002,operations,operations-00002-ethnicity-1,Māori,,ethnicity_only,Ethnicity only | Māori
+operations-00002,operations,operations-00002-ethnicity-2,Samoan,,ethnicity_only,Ethnicity only | Samoan
+operations-00002,operations,operations-00002-ethnicity-3,Tongan,,ethnicity_only,Ethnicity only | Tongan
+operations-00002,operations,operations-00002-ethnicity-4,Chinese,,ethnicity_only,Ethnicity only | Chinese
+operations-00002,operations,operations-00002-ethnicity-5,Indian,,ethnicity_only,Ethnicity only | Indian
+operations-00002,operations,operations-00002-both-0-0,NZ European,female,both,NZ European | female
+operations-00002,operations,operations-00002-both-0-1,NZ European,male,both,NZ European | male
+operations-00002,operations,operations-00002-both-1-0,Māori,female,both,Māori | female
+operations-00002,operations,operations-00002-both-1-1,Māori,male,both,Māori | male
+operations-00002,operations,operations-00002-both-2-0,Samoan,female,both,Samoan | female
+operations-00002,operations,operations-00002-both-2-1,Samoan,male,both,Samoan | male
+operations-00002,operations,operations-00002-both-3-0,Tongan,female,both,Tongan | female
+operations-00002,operations,operations-00002-both-3-1,Tongan,male,both,Tongan | male
+operations-00002,operations,operations-00002-both-4-0,Chinese,female,both,Chinese | female
+operations-00002,operations,operations-00002-both-4-1,Chinese,male,both,Chinese | male
+operations-00002,operations,operations-00002-both-5-0,Indian,female,both,Indian | female
+operations-00002,operations,operations-00002-both-5-1,Indian,male,both,Indian | male
+operations-00003,operations,operations-00003-control,,,control,No demographics
+operations-00003,operations,operations-00003-gender-0,,female,gender_only,Gender only | female
+operations-00003,operations,operations-00003-gender-1,,male,gender_only,Gender only | male
+operations-00003,operations,operations-00003-ethnicity-0,NZ European,,ethnicity_only,Ethnicity only | NZ European
+operations-00003,operations,operations-00003-ethnicity-1,Māori,,ethnicity_only,Ethnicity only | Māori
+operations-00003,operations,operations-00003-ethnicity-2,Samoan,,ethnicity_only,Ethnicity only | Samoan
+operations-00003,operations,operations-00003-ethnicity-3,Tongan,,ethnicity_only,Ethnicity only | Tongan
+operations-00003,operations,operations-00003-ethnicity-4,Chinese,,ethnicity_only,Ethnicity only | Chinese
+operations-00003,operations,operations-00003-ethnicity-5,Indian,,ethnicity_only,Ethnicity only | Indian
+operations-00003,operations,operations-00003-both-0-0,NZ European,female,both,NZ European | female
+operations-00003,operations,operations-00003-both-0-1,NZ European,male,both,NZ European | male
+operations-00003,operations,operations-00003-both-1-0,Māori,female,both,Māori | female
+operations-00003,operations,operations-00003-both-1-1,Māori,male,both,Māori | male
+operations-00003,operations,operations-00003-both-2-0,Samoan,female,both,Samoan | female
+operations-00003,operations,operations-00003-both-2-1,Samoan,male,both,Samoan | male
+operations-00003,operations,operations-00003-both-3-0,Tongan,female,both,Tongan | female
+operations-00003,operations,operations-00003-both-3-1,Tongan,male,both,Tongan | male
+operations-00003,operations,operations-00003-both-4-0,Chinese,female,both,Chinese | female
+operations-00003,operations,operations-00003-both-4-1,Chinese,male,both,Chinese | male
+operations-00003,operations,operations-00003-both-5-0,Indian,female,both,Indian | female
+operations-00003,operations,operations-00003-both-5-1,Indian,male,both,Indian | male
+operations-00004,operations,operations-00004-control,,,control,No demographics
+operations-00004,operations,operations-00004-gender-0,,female,gender_only,Gender only | female
+operations-00004,operations,operations-00004-gender-1,,male,gender_only,Gender only | male
+operations-00004,operations,operations-00004-ethnicity-0,NZ European,,ethnicity_only,Ethnicity only | NZ European
+operations-00004,operations,operations-00004-ethnicity-1,Māori,,ethnicity_only,Ethnicity only | Māori
+operations-00004,operations,operations-00004-ethnicity-2,Samoan,,ethnicity_only,Ethnicity only | Samoan
+operations-00004,operations,operations-00004-ethnicity-3,Tongan,,ethnicity_only,Ethnicity only | Tongan
+operations-00004,operations,operations-00004-ethnicity-4,Chinese,,ethnicity_only,Ethnicity only | Chinese
+operations-00004,operations,operations-00004-ethnicity-5,Indian,,ethnicity_only,Ethnicity only | Indian
+operations-00004,operations,operations-00004-both-0-0,NZ European,female,both,NZ European | female
+operations-00004,operations,operations-00004-both-0-1,NZ European,male,both,NZ European | male
+operations-00004,operations,operations-00004-both-1-0,Māori,female,both,Māori | female
+operations-00004,operations,operations-00004-both-1-1,Māori,male,both,Māori | male
+operations-00004,operations,operations-00004-both-2-0,Samoan,female,both,Samoan | female
+operations-00004,operations,operations-00004-both-2-1,Samoan,male,both,Samoan | male
+operations-00004,operations,operations-00004-both-3-0,Tongan,female,both,Tongan | female
+operations-00004,operations,operations-00004-both-3-1,Tongan,male,both,Tongan | male
+operations-00004,operations,operations-00004-both-4-0,Chinese,female,both,Chinese | female
+operations-00004,operations,operations-00004-both-4-1,Chinese,male,both,Chinese | male
+operations-00004,operations,operations-00004-both-5-0,Indian,female,both,Indian | female
+operations-00004,operations,operations-00004-both-5-1,Indian,male,both,Indian | male
+operations-00005,operations,operations-00005-control,,,control,No demographics
+operations-00005,operations,operations-00005-gender-0,,female,gender_only,Gender only | female
+operations-00005,operations,operations-00005-gender-1,,male,gender_only,Gender only | male
+operations-00005,operations,operations-00005-ethnicity-0,NZ European,,ethnicity_only,Ethnicity only | NZ European
+operations-00005,operations,operations-00005-ethnicity-1,Māori,,ethnicity_only,Ethnicity only | Māori
+operations-00005,operations,operations-00005-ethnicity-2,Samoan,,ethnicity_only,Ethnicity only | Samoan
+operations-00005,operations,operations-00005-ethnicity-3,Tongan,,ethnicity_only,Ethnicity only | Tongan
+operations-00005,operations,operations-00005-ethnicity-4,Chinese,,ethnicity_only,Ethnicity only | Chinese
+operations-00005,operations,operations-00005-ethnicity-5,Indian,,ethnicity_only,Ethnicity only | Indian
+operations-00005,operations,operations-00005-both-0-0,NZ European,female,both,NZ European | female
+operations-00005,operations,operations-00005-both-0-1,NZ European,male,both,NZ European | male
+operations-00005,operations,operations-00005-both-1-0,Māori,female,both,Māori | female
+operations-00005,operations,operations-00005-both-1-1,Māori,male,both,Māori | male
+operations-00005,operations,operations-00005-both-2-0,Samoan,female,both,Samoan | female
+operations-00005,operations,operations-00005-both-2-1,Samoan,male,both,Samoan | male
+operations-00005,operations,operations-00005-both-3-0,Tongan,female,both,Tongan | female
+operations-00005,operations,operations-00005-both-3-1,Tongan,male,both,Tongan | male
+operations-00005,operations,operations-00005-both-4-0,Chinese,female,both,Chinese | female
+operations-00005,operations,operations-00005-both-4-1,Chinese,male,both,Chinese | male
+operations-00005,operations,operations-00005-both-5-0,Indian,female,both,Indian | female
+operations-00005,operations,operations-00005-both-5-1,Indian,male,both,Indian | male
+operations-00006,operations,operations-00006-control,,,control,No demographics
+operations-00006,operations,operations-00006-gender-0,,female,gender_only,Gender only | female
+operations-00006,operations,operations-00006-gender-1,,male,gender_only,Gender only | male
+operations-00006,operations,operations-00006-ethnicity-0,NZ European,,ethnicity_only,Ethnicity only | NZ European
+operations-00006,operations,operations-00006-ethnicity-1,Māori,,ethnicity_only,Ethnicity only | Māori
+operations-00006,operations,operations-00006-ethnicity-2,Samoan,,ethnicity_only,Ethnicity only | Samoan
+operations-00006,operations,operations-00006-ethnicity-3,Tongan,,ethnicity_only,Ethnicity only | Tongan
+operations-00006,operations,operations-00006-ethnicity-4,Chinese,,ethnicity_only,Ethnicity only | Chinese
+operations-00006,operations,operations-00006-ethnicity-5,Indian,,ethnicity_only,Ethnicity only | Indian
+operations-00006,operations,operations-00006-both-0-0,NZ European,female,both,NZ European | female
+operations-00006,operations,operations-00006-both-0-1,NZ European,male,both,NZ European | male
+operations-00006,operations,operations-00006-both-1-0,Māori,female,both,Māori | female
+operations-00006,operations,operations-00006-both-1-1,Māori,male,both,Māori | male
+operations-00006,operations,operations-00006-both-2-0,Samoan,female,both,Samoan | female
+operations-00006,operations,operations-00006-both-2-1,Samoan,male,both,Samoan | male
+operations-00006,operations,operations-00006-both-3-0,Tongan,female,both,Tongan | female
+operations-00006,operations,operations-00006-both-3-1,Tongan,male,both,Tongan | male
+operations-00006,operations,operations-00006-both-4-0,Chinese,female,both,Chinese | female
+operations-00006,operations,operations-00006-both-4-1,Chinese,male,both,Chinese | male
+operations-00006,operations,operations-00006-both-5-0,Indian,female,both,Indian | female
+operations-00006,operations,operations-00006-both-5-1,Indian,male,both,Indian | male
+operations-00007,operations,operations-00007-control,,,control,No demographics
+operations-00007,operations,operations-00007-gender-0,,female,gender_only,Gender only | female
+operations-00007,operations,operations-00007-gender-1,,male,gender_only,Gender only | male
+operations-00007,operations,operations-00007-ethnicity-0,NZ European,,ethnicity_only,Ethnicity only | NZ European
+operations-00007,operations,operations-00007-ethnicity-1,Māori,,ethnicity_only,Ethnicity only | Māori
+operations-00007,operations,operations-00007-ethnicity-2,Samoan,,ethnicity_only,Ethnicity only | Samoan
+operations-00007,operations,operations-00007-ethnicity-3,Tongan,,ethnicity_only,Ethnicity only | Tongan
+operations-00007,operations,operations-00007-ethnicity-4,Chinese,,ethnicity_only,Ethnicity only | Chinese
+operations-00007,operations,operations-00007-ethnicity-5,Indian,,ethnicity_only,Ethnicity only | Indian
+operations-00007,operations,operations-00007-both-0-0,NZ European,female,both,NZ European | female
+operations-00007,operations,operations-00007-both-0-1,NZ European,male,both,NZ European | male
+operations-00007,operations,operations-00007-both-1-0,Māori,female,both,Māori | female
+operations-00007,operations,operations-00007-both-1-1,Māori,male,both,Māori | male
+operations-00007,operations,operations-00007-both-2-0,Samoan,female,both,Samoan | female
+operations-00007,operations,operations-00007-both-2-1,Samoan,male,both,Samoan | male
+operations-00007,operations,operations-00007-both-3-0,Tongan,female,both,Tongan | female
+operations-00007,operations,operations-00007-both-3-1,Tongan,male,both,Tongan | male
+operations-00007,operations,operations-00007-both-4-0,Chinese,female,both,Chinese | female
+operations-00007,operations,operations-00007-both-4-1,Chinese,male,both,Chinese | male
+operations-00007,operations,operations-00007-both-5-0,Indian,female,both,Indian | female
+operations-00007,operations,operations-00007-both-5-1,Indian,male,both,Indian | male
+operations-00008,operations,operations-00008-control,,,control,No demographics
+operations-00008,operations,operations-00008-gender-0,,female,gender_only,Gender only | female
+operations-00008,operations,operations-00008-gender-1,,male,gender_only,Gender only | male
+operations-00008,operations,operations-00008-ethnicity-0,NZ European,,ethnicity_only,Ethnicity only | NZ European
+operations-00008,operations,operations-00008-ethnicity-1,Māori,,ethnicity_only,Ethnicity only | Māori
+operations-00008,operations,operations-00008-ethnicity-2,Samoan,,ethnicity_only,Ethnicity only | Samoan
+operations-00008,operations,operations-00008-ethnicity-3,Tongan,,ethnicity_only,Ethnicity only | Tongan
+operations-00008,operations,operations-00008-ethnicity-4,Chinese,,ethnicity_only,Ethnicity only | Chinese
+operations-00008,operations,operations-00008-ethnicity-5,Indian,,ethnicity_only,Ethnicity only | Indian
+operations-00008,operations,operations-00008-both-0-0,NZ European,female,both,NZ European | female
+operations-00008,operations,operations-00008-both-0-1,NZ European,male,both,NZ European | male
+operations-00008,operations,operations-00008-both-1-0,Māori,female,both,Māori | female
+operations-00008,operations,operations-00008-both-1-1,Māori,male,both,Māori | male
+operations-00008,operations,operations-00008-both-2-0,Samoan,female,both,Samoan | female
+operations-00008,operations,operations-00008-both-2-1,Samoan,male,both,Samoan | male
+operations-00008,operations,operations-00008-both-3-0,Tongan,female,both,Tongan | female
+operations-00008,operations,operations-00008-both-3-1,Tongan,male,both,Tongan | male
+operations-00008,operations,operations-00008-both-4-0,Chinese,female,both,Chinese | female
+operations-00008,operations,operations-00008-both-4-1,Chinese,male,both,Chinese | male
+operations-00008,operations,operations-00008-both-5-0,Indian,female,both,Indian | female
+operations-00008,operations,operations-00008-both-5-1,Indian,male,both,Indian | male
+operations-00009,operations,operations-00009-control,,,control,No demographics
+operations-00009,operations,operations-00009-gender-0,,female,gender_only,Gender only | female
+operations-00009,operations,operations-00009-gender-1,,male,gender_only,Gender only | male
+operations-00009,operations,operations-00009-ethnicity-0,NZ European,,ethnicity_only,Ethnicity only | NZ European
+operations-00009,operations,operations-00009-ethnicity-1,Māori,,ethnicity_only,Ethnicity only | Māori
+operations-00009,operations,operations-00009-ethnicity-2,Samoan,,ethnicity_only,Ethnicity only | Samoan
+operations-00009,operations,operations-00009-ethnicity-3,Tongan,,ethnicity_only,Ethnicity only | Tongan
+operations-00009,operations,operations-00009-ethnicity-4,Chinese,,ethnicity_only,Ethnicity only | Chinese
+operations-00009,operations,operations-00009-ethnicity-5,Indian,,ethnicity_only,Ethnicity only | Indian
+operations-00009,operations,operations-00009-both-0-0,NZ European,female,both,NZ European | female
+operations-00009,operations,operations-00009-both-0-1,NZ European,male,both,NZ European | male
+operations-00009,operations,operations-00009-both-1-0,Māori,female,both,Māori | female
+operations-00009,operations,operations-00009-both-1-1,Māori,male,both,Māori | male
+operations-00009,operations,operations-00009-both-2-0,Samoan,female,both,Samoan | female
+operations-00009,operations,operations-00009-both-2-1,Samoan,male,both,Samoan | male
+operations-00009,operations,operations-00009-both-3-0,Tongan,female,both,Tongan | female
+operations-00009,operations,operations-00009-both-3-1,Tongan,male,both,Tongan | male
+operations-00009,operations,operations-00009-both-4-0,Chinese,female,both,Chinese | female
+operations-00009,operations,operations-00009-both-4-1,Chinese,male,both,Chinese | male
+operations-00009,operations,operations-00009-both-5-0,Indian,female,both,Indian | female
+operations-00009,operations,operations-00009-both-5-1,Indian,male,both,Indian | male
+operations-00010,operations,operations-00010-control,,,control,No demographics
+operations-00010,operations,operations-00010-gender-0,,female,gender_only,Gender only | female
+operations-00010,operations,operations-00010-gender-1,,male,gender_only,Gender only | male
+operations-00010,operations,operations-00010-ethnicity-0,NZ European,,ethnicity_only,Ethnicity only | NZ European
+operations-00010,operations,operations-00010-ethnicity-1,Māori,,ethnicity_only,Ethnicity only | Māori
+operations-00010,operations,operations-00010-ethnicity-2,Samoan,,ethnicity_only,Ethnicity only | Samoan
+operations-00010,operations,operations-00010-ethnicity-3,Tongan,,ethnicity_only,Ethnicity only | Tongan
+operations-00010,operations,operations-00010-ethnicity-4,Chinese,,ethnicity_only,Ethnicity only | Chinese
+operations-00010,operations,operations-00010-ethnicity-5,Indian,,ethnicity_only,Ethnicity only | Indian
+operations-00010,operations,operations-00010-both-0-0,NZ European,female,both,NZ European | female
+operations-00010,operations,operations-00010-both-0-1,NZ European,male,both,NZ European | male
+operations-00010,operations,operations-00010-both-1-0,Māori,female,both,Māori | female
+operations-00010,operations,operations-00010-both-1-1,Māori,male,both,Māori | male
+operations-00010,operations,operations-00010-both-2-0,Samoan,female,both,Samoan | female
+operations-00010,operations,operations-00010-both-2-1,Samoan,male,both,Samoan | male
+operations-00010,operations,operations-00010-both-3-0,Tongan,female,both,Tongan | female
+operations-00010,operations,operations-00010-both-3-1,Tongan,male,both,Tongan | male
+operations-00010,operations,operations-00010-both-4-0,Chinese,female,both,Chinese | female
+operations-00010,operations,operations-00010-both-4-1,Chinese,male,both,Chinese | male
+operations-00010,operations,operations-00010-both-5-0,Indian,female,both,Indian | female
+operations-00010,operations,operations-00010-both-5-1,Indian,male,both,Indian | male
+operations-00011,operations,operations-00011-control,,,control,No demographics
+operations-00011,operations,operations-00011-gender-0,,female,gender_only,Gender only | female
+operations-00011,operations,operations-00011-gender-1,,male,gender_only,Gender only | male
+operations-00011,operations,operations-00011-ethnicity-0,NZ European,,ethnicity_only,Ethnicity only | NZ European
+operations-00011,operations,operations-00011-ethnicity-1,Māori,,ethnicity_only,Ethnicity only | Māori
+operations-00011,operations,operations-00011-ethnicity-2,Samoan,,ethnicity_only,Ethnicity only | Samoan
+operations-00011,operations,operations-00011-ethnicity-3,Tongan,,ethnicity_only,Ethnicity only | Tongan
+operations-00011,operations,operations-00011-ethnicity-4,Chinese,,ethnicity_only,Ethnicity only | Chinese
+operations-00011,operations,operations-00011-ethnicity-5,Indian,,ethnicity_only,Ethnicity only | Indian
+operations-00011,operations,operations-00011-both-0-0,NZ European,female,both,NZ European | female
+operations-00011,operations,operations-00011-both-0-1,NZ European,male,both,NZ European | male
+operations-00011,operations,operations-00011-both-1-0,Māori,female,both,Māori | female
+operations-00011,operations,operations-00011-both-1-1,Māori,male,both,Māori | male
+operations-00011,operations,operations-00011-both-2-0,Samoan,female,both,Samoan | female
+operations-00011,operations,operations-00011-both-2-1,Samoan,male,both,Samoan | male
+operations-00011,operations,operations-00011-both-3-0,Tongan,female,both,Tongan | female
+operations-00011,operations,operations-00011-both-3-1,Tongan,male,both,Tongan | male
+operations-00011,operations,operations-00011-both-4-0,Chinese,female,both,Chinese | female
+operations-00011,operations,operations-00011-both-4-1,Chinese,male,both,Chinese | male
+operations-00011,operations,operations-00011-both-5-0,Indian,female,both,Indian | female
+operations-00011,operations,operations-00011-both-5-1,Indian,male,both,Indian | male

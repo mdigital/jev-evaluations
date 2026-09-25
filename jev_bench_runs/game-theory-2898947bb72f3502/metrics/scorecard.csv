@@ -1,0 +1,18 @@
+metric,units,value,reference,verdict
+Ordinal game-family ranking,Spearman rho vs theory,0.9999999999999999,1.0,pass
+Dominance in abstract one-shot games,accuracy,1.0,1.0,pass
+Best response to a committed opponent,accuracy,0.725,1.0,mixed
+  of which one-shot,accuracy,1.0,1.0,pass
+  of which indefinitely repeated,accuracy,0.45,1.0,fail
+Known-finite horizon,accuracy,0.3522727272727273,1.0,fail
+"Overall, all scoreable trials",accuracy,0.7827669902912622,1.0,mixed
+Incentive gradient,d P(coop) / d log greed,-0.016559888412929345,,weak
+Folk-theorem threshold,mean |observed - predicted| delta,0.6356830570441622,0.0,fail
+Repetition framing at zero continuation,P(coop) minus one-shot,0.21458333333333338,0.0,fail
+Framing invariance,widest range across 6 wordings,0.6625,0.0,fail
+Affine invariance,widest range across 6 rescalings,0.279375,0.0,fail
+Presentation invariance,mean signed gap,-0.040964506172839504,0.0,fail
+Test-retest reliability,within-cell sd of P(coop),0.0258854044021902,0.0,pass
+"Internal coherence, choice vs noul",share on the same side of 0.5,0.8136446886446886,1.0,fail
+Cost per decision,USD,2.9533719367588928e-05,,pass
+Median latency,seconds,0.2583,,pass

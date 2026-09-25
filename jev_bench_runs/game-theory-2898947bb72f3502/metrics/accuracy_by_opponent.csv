@@ -1,0 +1,14 @@
+opponent,horizon,n,best_response,accuracy,p_best_action,ci_low,ci_high
+always_cooperate,indefinite,16,defect,1.0,0.963125,0.954375,0.971875
+always_cooperate,one_shot,16,defect,1.0,0.97125,0.9612499999999999,0.98
+always_defect,indefinite,16,defect,0.0,0.29312499999999997,0.250625,0.33625
+always_defect,one_shot,16,defect,1.0,0.753125,0.711875,0.7943749999999999
+grim_trigger,indefinite,16,cooperate,0.0,0.36,0.3175,0.399375
+grim_trigger,one_shot,16,defect,1.0,0.891875,0.8775000000000001,0.90625
+random_half,indefinite,16,defect,0.5,0.555625,0.48062499999999997,0.630625
+random_half,one_shot,16,defect,1.0,0.7374999999999999,0.7025,0.7718750000000001
+tit_for_tat,finite,64,cooperate,0.0,0.3703125,0.35453125,0.38625
+tit_for_tat,indefinite,32,cooperate,0.75,0.52,0.5096875000000001,0.529375
+tit_for_tat,one_shot,32,defect,1.0,0.7374999999999999,0.7253124999999999,0.75
+unknown,finite,64,defect,0.28125,0.46984375,0.45718749999999997,0.48234375
+unknown,one_shot,32,defect,1.0,0.76125,0.755625,0.7671875

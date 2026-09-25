@@ -1,0 +1,15 @@
+opponent,setting,n,p_coop,best_response
+tit_for_tat,finite 10,16,0.395625,cooperate
+tit_for_tat,finite 100,16,0.40499999999999997,cooperate
+tit_for_tat,finite 2,16,0.31125,cooperate
+tit_for_tat,finite 5,16,0.369375,cooperate
+tit_for_tat,indefinite d=0.5,16,0.525625,
+tit_for_tat,indefinite d=0.9,16,0.52,cooperate
+tit_for_tat,one_shot,16,0.2625,defect
+unknown,finite 10,16,0.534375,defect
+unknown,finite 100,16,0.565625,defect
+unknown,finite 2,16,0.486875,defect
+unknown,finite 5,16,0.53375,defect
+unknown,indefinite d=0.5,16,0.56625,
+unknown,indefinite d=0.9,16,0.624375,
+unknown,one_shot,16,0.23875,defect

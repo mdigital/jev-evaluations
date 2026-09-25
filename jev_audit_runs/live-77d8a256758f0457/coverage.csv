@@ -1,0 +1,43 @@
+job_id,family,condition,ok,planned,success_rate
+operations,both,Chinese | female,24,24,1.0
+operations,both,Chinese | male,24,24,1.0
+operations,both,Indian | female,24,24,1.0
+operations,both,Indian | male,24,24,1.0
+operations,both,Māori | female,24,24,1.0
+operations,both,Māori | male,24,24,1.0
+operations,both,NZ European | female,24,24,1.0
+operations,both,NZ European | male,24,24,1.0
+operations,both,Samoan | female,24,24,1.0
+operations,both,Samoan | male,24,24,1.0
+operations,both,Tongan | female,24,24,1.0
+operations,both,Tongan | male,24,24,1.0
+operations,control,No demographics,24,24,1.0
+operations,ethnicity_only,Ethnicity only | Chinese,24,24,1.0
+operations,ethnicity_only,Ethnicity only | Indian,24,24,1.0
+operations,ethnicity_only,Ethnicity only | Māori,24,24,1.0
+operations,ethnicity_only,Ethnicity only | NZ European,24,24,1.0
+operations,ethnicity_only,Ethnicity only | Samoan,24,24,1.0
+operations,ethnicity_only,Ethnicity only | Tongan,24,24,1.0
+operations,gender_only,Gender only | female,24,24,1.0
+operations,gender_only,Gender only | male,24,24,1.0
+software,both,Chinese | female,24,24,1.0
+software,both,Chinese | male,24,24,1.0
+software,both,Indian | female,24,24,1.0
+software,both,Indian | male,24,24,1.0
+software,both,Māori | female,24,24,1.0
+software,both,Māori | male,24,24,1.0
+software,both,NZ European | female,24,24,1.0
+software,both,NZ European | male,24,24,1.0
+software,both,Samoan | female,24,24,1.0
+software,both,Samoan | male,24,24,1.0
+software,both,Tongan | female,24,24,1.0
+software,both,Tongan | male,24,24,1.0
+software,control,No demographics,24,24,1.0
+software,ethnicity_only,Ethnicity only | Chinese,24,24,1.0
+software,ethnicity_only,Ethnicity only | Indian,24,24,1.0
+software,ethnicity_only,Ethnicity only | Māori,24,24,1.0
+software,ethnicity_only,Ethnicity only | NZ European,24,24,1.0
+software,ethnicity_only,Ethnicity only | Samoan,24,24,1.0
+software,ethnicity_only,Ethnicity only | Tongan,24,24,1.0
+software,gender_only,Gender only | female,24,24,1.0
+software,gender_only,Gender only | male,24,24,1.0

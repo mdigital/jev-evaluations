@@ -1,0 +1,9 @@
+{
+  "pass_threshold": 70,
+  "top_fraction": 0.25,
+  "bootstrap_draws": 2000,
+  "complete_profiles": 24,
+  "planned_profiles": 24,
+  "demo": false,
+  "audit_kind": "direct_gender_ethnicity_fields"
+}

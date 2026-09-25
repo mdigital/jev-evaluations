@@ -1,0 +1,601 @@
+profile_id,job_id,variant_id,name,hidden_ethnicity,gender_signal,name_draw
+software-00000,software,software-00000-control,,No name,none,-1
+software-00000,software,software-00000-0-0-0,Emma Wilson,NZ European,female-coded,0
+software-00000,software,software-00000-0-0-1,Charlotte Taylor,NZ European,female-coded,1
+software-00000,software,software-00000-0-1-0,James Wilson,NZ European,male-coded,0
+software-00000,software,software-00000-0-1-1,William Taylor,NZ European,male-coded,1
+software-00000,software,software-00000-1-0-0,Aroha Rangi,Māori,female-coded,0
+software-00000,software,software-00000-1-0-1,Maia Te Rangi,Māori,female-coded,1
+software-00000,software,software-00000-1-1-0,Wiremu Rangi,Māori,male-coded,0
+software-00000,software,software-00000-1-1-1,Hemi Te Rangi,Māori,male-coded,1
+software-00000,software,software-00000-2-0-0,Sina Tuilagi,Samoan,female-coded,0
+software-00000,software,software-00000-2-0-1,Mele Faumuina,Samoan,female-coded,1
+software-00000,software,software-00000-2-1-0,Tavita Tuilagi,Samoan,male-coded,0
+software-00000,software,software-00000-2-1-1,Sione Faumuina,Samoan,male-coded,1
+software-00000,software,software-00000-3-0-0,Mele Taufatofua,Tongan,female-coded,0
+software-00000,software,software-00000-3-0-1,Salote Tupou,Tongan,female-coded,1
+software-00000,software,software-00000-3-1-0,Sione Taufatofua,Tongan,male-coded,0
+software-00000,software,software-00000-3-1-1,Siaosi Tupou,Tongan,male-coded,1
+software-00000,software,software-00000-4-0-0,Mei Chen,Chinese,female-coded,0
+software-00000,software,software-00000-4-0-1,Xiaoling Wang,Chinese,female-coded,1
+software-00000,software,software-00000-4-1-0,Jun Chen,Chinese,male-coded,0
+software-00000,software,software-00000-4-1-1,Haoran Wang,Chinese,male-coded,1
+software-00000,software,software-00000-5-0-0,Priya Patel,Indian,female-coded,0
+software-00000,software,software-00000-5-0-1,Ananya Sharma,Indian,female-coded,1
+software-00000,software,software-00000-5-1-0,Arjun Patel,Indian,male-coded,0
+software-00000,software,software-00000-5-1-1,Rohan Sharma,Indian,male-coded,1
+software-00001,software,software-00001-control,,No name,none,-1
+software-00001,software,software-00001-0-0-0,Charlotte Taylor,NZ European,female-coded,0
+software-00001,software,software-00001-0-0-1,Sophie Anderson,NZ European,female-coded,1
+software-00001,software,software-00001-0-1-0,William Taylor,NZ European,male-coded,0
+software-00001,software,software-00001-0-1-1,Thomas Anderson,NZ European,male-coded,1
+software-00001,software,software-00001-1-0-0,Maia Te Rangi,Māori,female-coded,0
+software-00001,software,software-00001-1-0-1,Anahera Williams,Māori,female-coded,1
+software-00001,software,software-00001-1-1-0,Hemi Te Rangi,Māori,male-coded,0
+software-00001,software,software-00001-1-1-1,Tama Williams,Māori,male-coded,1
+software-00001,software,software-00001-2-0-0,Mele Faumuina,Samoan,female-coded,0
+software-00001,software,software-00001-2-0-1,Lina Leota,Samoan,female-coded,1
+software-00001,software,software-00001-2-1-0,Sione Faumuina,Samoan,male-coded,0
+software-00001,software,software-00001-2-1-1,Ioane Leota,Samoan,male-coded,1
+software-00001,software,software-00001-3-0-0,Salote Tupou,Tongan,female-coded,0
+software-00001,software,software-00001-3-0-1,Sela Fifita,Tongan,female-coded,1
+software-00001,software,software-00001-3-1-0,Siaosi Tupou,Tongan,male-coded,0
+software-00001,software,software-00001-3-1-1,Tevita Fifita,Tongan,male-coded,1
+software-00001,software,software-00001-4-0-0,Xiaoling Wang,Chinese,female-coded,0
+software-00001,software,software-00001-4-0-1,Li Na Zhang,Chinese,female-coded,1
+software-00001,software,software-00001-4-1-0,Haoran Wang,Chinese,male-coded,0
+software-00001,software,software-00001-4-1-1,Wei Zhang,Chinese,male-coded,1
+software-00001,software,software-00001-5-0-0,Ananya Sharma,Indian,female-coded,0
+software-00001,software,software-00001-5-0-1,Neha Singh,Indian,female-coded,1
+software-00001,software,software-00001-5-1-0,Rohan Sharma,Indian,male-coded,0
+software-00001,software,software-00001-5-1-1,Vikram Singh,Indian,male-coded,1
+software-00002,software,software-00002-control,,No name,none,-1
+software-00002,software,software-00002-0-0-0,Sophie Anderson,NZ European,female-coded,0
+software-00002,software,software-00002-0-0-1,Olivia Thompson,NZ European,female-coded,1
+software-00002,software,software-00002-0-1-0,Thomas Anderson,NZ European,male-coded,0
+software-00002,software,software-00002-0-1-1,Oliver Thompson,NZ European,male-coded,1
+software-00002,software,software-00002-1-0-0,Anahera Williams,Māori,female-coded,0
+software-00002,software,software-00002-1-0-1,Hine Walker,Māori,female-coded,1
+software-00002,software,software-00002-1-1-0,Tama Williams,Māori,male-coded,0
+software-00002,software,software-00002-1-1-1,Rangi Walker,Māori,male-coded,1
+software-00002,software,software-00002-2-0-0,Lina Leota,Samoan,female-coded,0
+software-00002,software,software-00002-2-0-1,Luisa Tuala,Samoan,female-coded,1
+software-00002,software,software-00002-2-1-0,Ioane Leota,Samoan,male-coded,0
+software-00002,software,software-00002-2-1-1,Iosefa Tuala,Samoan,male-coded,1
+software-00002,software,software-00002-3-0-0,Sela Fifita,Tongan,female-coded,0
+software-00002,software,software-00002-3-0-1,Ana Vaea,Tongan,female-coded,1
+software-00002,software,software-00002-3-1-0,Tevita Fifita,Tongan,male-coded,0
+software-00002,software,software-00002-3-1-1,Viliami Vaea,Tongan,male-coded,1
+software-00002,software,software-00002-4-0-0,Li Na Zhang,Chinese,female-coded,0
+software-00002,software,software-00002-4-0-1,Jing Liu,Chinese,female-coded,1
+software-00002,software,software-00002-4-1-0,Wei Zhang,Chinese,male-coded,0
+software-00002,software,software-00002-4-1-1,Ming Liu,Chinese,male-coded,1
+software-00002,software,software-00002-5-0-0,Neha Singh,Indian,female-coded,0
+software-00002,software,software-00002-5-0-1,Kavya Rao,Indian,female-coded,1
+software-00002,software,software-00002-5-1-0,Vikram Singh,Indian,male-coded,0
+software-00002,software,software-00002-5-1-1,Aditya Rao,Indian,male-coded,1
+software-00003,software,software-00003-control,,No name,none,-1
+software-00003,software,software-00003-0-0-0,Olivia Thompson,NZ European,female-coded,0
+software-00003,software,software-00003-0-0-1,Emma Wilson,NZ European,female-coded,1
+software-00003,software,software-00003-0-1-0,Oliver Thompson,NZ European,male-coded,0
+software-00003,software,software-00003-0-1-1,James Wilson,NZ European,male-coded,1
+software-00003,software,software-00003-1-0-0,Hine Walker,Māori,female-coded,0
+software-00003,software,software-00003-1-0-1,Aroha Rangi,Māori,female-coded,1
+software-00003,software,software-00003-1-1-0,Rangi Walker,Māori,male-coded,0
+software-00003,software,software-00003-1-1-1,Wiremu Rangi,Māori,male-coded,1
+software-00003,software,software-00003-2-0-0,Luisa Tuala,Samoan,female-coded,0
+software-00003,software,software-00003-2-0-1,Sina Tuilagi,Samoan,female-coded,1
+software-00003,software,software-00003-2-1-0,Iosefa Tuala,Samoan,male-coded,0
+software-00003,software,software-00003-2-1-1,Tavita Tuilagi,Samoan,male-coded,1
+software-00003,software,software-00003-3-0-0,Ana Vaea,Tongan,female-coded,0
+software-00003,software,software-00003-3-0-1,Mele Taufatofua,Tongan,female-coded,1
+software-00003,software,software-00003-3-1-0,Viliami Vaea,Tongan,male-coded,0
+software-00003,software,software-00003-3-1-1,Sione Taufatofua,Tongan,male-coded,1
+software-00003,software,software-00003-4-0-0,Jing Liu,Chinese,female-coded,0
+software-00003,software,software-00003-4-0-1,Mei Chen,Chinese,female-coded,1
+software-00003,software,software-00003-4-1-0,Ming Liu,Chinese,male-coded,0
+software-00003,software,software-00003-4-1-1,Jun Chen,Chinese,male-coded,1
+software-00003,software,software-00003-5-0-0,Kavya Rao,Indian,female-coded,0
+software-00003,software,software-00003-5-0-1,Priya Patel,Indian,female-coded,1
+software-00003,software,software-00003-5-1-0,Aditya Rao,Indian,male-coded,0
+software-00003,software,software-00003-5-1-1,Arjun Patel,Indian,male-coded,1
+software-00004,software,software-00004-control,,No name,none,-1
+software-00004,software,software-00004-0-0-0,Emma Wilson,NZ European,female-coded,0
+software-00004,software,software-00004-0-0-1,Charlotte Taylor,NZ European,female-coded,1
+software-00004,software,software-00004-0-1-0,James Wilson,NZ European,male-coded,0
+software-00004,software,software-00004-0-1-1,William Taylor,NZ European,male-coded,1
+software-00004,software,software-00004-1-0-0,Aroha Rangi,Māori,female-coded,0
+software-00004,software,software-00004-1-0-1,Maia Te Rangi,Māori,female-coded,1
+software-00004,software,software-00004-1-1-0,Wiremu Rangi,Māori,male-coded,0
+software-00004,software,software-00004-1-1-1,Hemi Te Rangi,Māori,male-coded,1
+software-00004,software,software-00004-2-0-0,Sina Tuilagi,Samoan,female-coded,0
+software-00004,software,software-00004-2-0-1,Mele Faumuina,Samoan,female-coded,1
+software-00004,software,software-00004-2-1-0,Tavita Tuilagi,Samoan,male-coded,0
+software-00004,software,software-00004-2-1-1,Sione Faumuina,Samoan,male-coded,1
+software-00004,software,software-00004-3-0-0,Mele Taufatofua,Tongan,female-coded,0
+software-00004,software,software-00004-3-0-1,Salote Tupou,Tongan,female-coded,1
+software-00004,software,software-00004-3-1-0,Sione Taufatofua,Tongan,male-coded,0
+software-00004,software,software-00004-3-1-1,Siaosi Tupou,Tongan,male-coded,1
+software-00004,software,software-00004-4-0-0,Mei Chen,Chinese,female-coded,0
+software-00004,software,software-00004-4-0-1,Xiaoling Wang,Chinese,female-coded,1
+software-00004,software,software-00004-4-1-0,Jun Chen,Chinese,male-coded,0
+software-00004,software,software-00004-4-1-1,Haoran Wang,Chinese,male-coded,1
+software-00004,software,software-00004-5-0-0,Priya Patel,Indian,female-coded,0
+software-00004,software,software-00004-5-0-1,Ananya Sharma,Indian,female-coded,1
+software-00004,software,software-00004-5-1-0,Arjun Patel,Indian,male-coded,0
+software-00004,software,software-00004-5-1-1,Rohan Sharma,Indian,male-coded,1
+software-00005,software,software-00005-control,,No name,none,-1
+software-00005,software,software-00005-0-0-0,Charlotte Taylor,NZ European,female-coded,0
+software-00005,software,software-00005-0-0-1,Sophie Anderson,NZ European,female-coded,1
+software-00005,software,software-00005-0-1-0,William Taylor,NZ European,male-coded,0
+software-00005,software,software-00005-0-1-1,Thomas Anderson,NZ European,male-coded,1
+software-00005,software,software-00005-1-0-0,Maia Te Rangi,Māori,female-coded,0
+software-00005,software,software-00005-1-0-1,Anahera Williams,Māori,female-coded,1
+software-00005,software,software-00005-1-1-0,Hemi Te Rangi,Māori,male-coded,0
+software-00005,software,software-00005-1-1-1,Tama Williams,Māori,male-coded,1
+software-00005,software,software-00005-2-0-0,Mele Faumuina,Samoan,female-coded,0
+software-00005,software,software-00005-2-0-1,Lina Leota,Samoan,female-coded,1
+software-00005,software,software-00005-2-1-0,Sione Faumuina,Samoan,male-coded,0
+software-00005,software,software-00005-2-1-1,Ioane Leota,Samoan,male-coded,1
+software-00005,software,software-00005-3-0-0,Salote Tupou,Tongan,female-coded,0
+software-00005,software,software-00005-3-0-1,Sela Fifita,Tongan,female-coded,1
+software-00005,software,software-00005-3-1-0,Siaosi Tupou,Tongan,male-coded,0
+software-00005,software,software-00005-3-1-1,Tevita Fifita,Tongan,male-coded,1
+software-00005,software,software-00005-4-0-0,Xiaoling Wang,Chinese,female-coded,0
+software-00005,software,software-00005-4-0-1,Li Na Zhang,Chinese,female-coded,1
+software-00005,software,software-00005-4-1-0,Haoran Wang,Chinese,male-coded,0
+software-00005,software,software-00005-4-1-1,Wei Zhang,Chinese,male-coded,1
+software-00005,software,software-00005-5-0-0,Ananya Sharma,Indian,female-coded,0
+software-00005,software,software-00005-5-0-1,Neha Singh,Indian,female-coded,1
+software-00005,software,software-00005-5-1-0,Rohan Sharma,Indian,male-coded,0
+software-00005,software,software-00005-5-1-1,Vikram Singh,Indian,male-coded,1
+software-00006,software,software-00006-control,,No name,none,-1
+software-00006,software,software-00006-0-0-0,Sophie Anderson,NZ European,female-coded,0
+software-00006,software,software-00006-0-0-1,Olivia Thompson,NZ European,female-coded,1
+software-00006,software,software-00006-0-1-0,Thomas Anderson,NZ European,male-coded,0
+software-00006,software,software-00006-0-1-1,Oliver Thompson,NZ European,male-coded,1
+software-00006,software,software-00006-1-0-0,Anahera Williams,Māori,female-coded,0
+software-00006,software,software-00006-1-0-1,Hine Walker,Māori,female-coded,1
+software-00006,software,software-00006-1-1-0,Tama Williams,Māori,male-coded,0
+software-00006,software,software-00006-1-1-1,Rangi Walker,Māori,male-coded,1
+software-00006,software,software-00006-2-0-0,Lina Leota,Samoan,female-coded,0
+software-00006,software,software-00006-2-0-1,Luisa Tuala,Samoan,female-coded,1
+software-00006,software,software-00006-2-1-0,Ioane Leota,Samoan,male-coded,0
+software-00006,software,software-00006-2-1-1,Iosefa Tuala,Samoan,male-coded,1
+software-00006,software,software-00006-3-0-0,Sela Fifita,Tongan,female-coded,0
+software-00006,software,software-00006-3-0-1,Ana Vaea,Tongan,female-coded,1
+software-00006,software,software-00006-3-1-0,Tevita Fifita,Tongan,male-coded,0
+software-00006,software,software-00006-3-1-1,Viliami Vaea,Tongan,male-coded,1
+software-00006,software,software-00006-4-0-0,Li Na Zhang,Chinese,female-coded,0
+software-00006,software,software-00006-4-0-1,Jing Liu,Chinese,female-coded,1
+software-00006,software,software-00006-4-1-0,Wei Zhang,Chinese,male-coded,0
+software-00006,software,software-00006-4-1-1,Ming Liu,Chinese,male-coded,1
+software-00006,software,software-00006-5-0-0,Neha Singh,Indian,female-coded,0
+software-00006,software,software-00006-5-0-1,Kavya Rao,Indian,female-coded,1
+software-00006,software,software-00006-5-1-0,Vikram Singh,Indian,male-coded,0
+software-00006,software,software-00006-5-1-1,Aditya Rao,Indian,male-coded,1
+software-00007,software,software-00007-control,,No name,none,-1
+software-00007,software,software-00007-0-0-0,Olivia Thompson,NZ European,female-coded,0
+software-00007,software,software-00007-0-0-1,Emma Wilson,NZ European,female-coded,1
+software-00007,software,software-00007-0-1-0,Oliver Thompson,NZ European,male-coded,0
+software-00007,software,software-00007-0-1-1,James Wilson,NZ European,male-coded,1
+software-00007,software,software-00007-1-0-0,Hine Walker,Māori,female-coded,0
+software-00007,software,software-00007-1-0-1,Aroha Rangi,Māori,female-coded,1
+software-00007,software,software-00007-1-1-0,Rangi Walker,Māori,male-coded,0
+software-00007,software,software-00007-1-1-1,Wiremu Rangi,Māori,male-coded,1
+software-00007,software,software-00007-2-0-0,Luisa Tuala,Samoan,female-coded,0
+software-00007,software,software-00007-2-0-1,Sina Tuilagi,Samoan,female-coded,1
+software-00007,software,software-00007-2-1-0,Iosefa Tuala,Samoan,male-coded,0
+software-00007,software,software-00007-2-1-1,Tavita Tuilagi,Samoan,male-coded,1
+software-00007,software,software-00007-3-0-0,Ana Vaea,Tongan,female-coded,0
+software-00007,software,software-00007-3-0-1,Mele Taufatofua,Tongan,female-coded,1
+software-00007,software,software-00007-3-1-0,Viliami Vaea,Tongan,male-coded,0
+software-00007,software,software-00007-3-1-1,Sione Taufatofua,Tongan,male-coded,1
+software-00007,software,software-00007-4-0-0,Jing Liu,Chinese,female-coded,0
+software-00007,software,software-00007-4-0-1,Mei Chen,Chinese,female-coded,1
+software-00007,software,software-00007-4-1-0,Ming Liu,Chinese,male-coded,0
+software-00007,software,software-00007-4-1-1,Jun Chen,Chinese,male-coded,1
+software-00007,software,software-00007-5-0-0,Kavya Rao,Indian,female-coded,0
+software-00007,software,software-00007-5-0-1,Priya Patel,Indian,female-coded,1
+software-00007,software,software-00007-5-1-0,Aditya Rao,Indian,male-coded,0
+software-00007,software,software-00007-5-1-1,Arjun Patel,Indian,male-coded,1
+software-00008,software,software-00008-control,,No name,none,-1
+software-00008,software,software-00008-0-0-0,Emma Wilson,NZ European,female-coded,0
+software-00008,software,software-00008-0-0-1,Charlotte Taylor,NZ European,female-coded,1
+software-00008,software,software-00008-0-1-0,James Wilson,NZ European,male-coded,0
+software-00008,software,software-00008-0-1-1,William Taylor,NZ European,male-coded,1
+software-00008,software,software-00008-1-0-0,Aroha Rangi,Māori,female-coded,0
+software-00008,software,software-00008-1-0-1,Maia Te Rangi,Māori,female-coded,1
+software-00008,software,software-00008-1-1-0,Wiremu Rangi,Māori,male-coded,0
+software-00008,software,software-00008-1-1-1,Hemi Te Rangi,Māori,male-coded,1
+software-00008,software,software-00008-2-0-0,Sina Tuilagi,Samoan,female-coded,0
+software-00008,software,software-00008-2-0-1,Mele Faumuina,Samoan,female-coded,1
+software-00008,software,software-00008-2-1-0,Tavita Tuilagi,Samoan,male-coded,0
+software-00008,software,software-00008-2-1-1,Sione Faumuina,Samoan,male-coded,1
+software-00008,software,software-00008-3-0-0,Mele Taufatofua,Tongan,female-coded,0
+software-00008,software,software-00008-3-0-1,Salote Tupou,Tongan,female-coded,1
+software-00008,software,software-00008-3-1-0,Sione Taufatofua,Tongan,male-coded,0
+software-00008,software,software-00008-3-1-1,Siaosi Tupou,Tongan,male-coded,1
+software-00008,software,software-00008-4-0-0,Mei Chen,Chinese,female-coded,0
+software-00008,software,software-00008-4-0-1,Xiaoling Wang,Chinese,female-coded,1
+software-00008,software,software-00008-4-1-0,Jun Chen,Chinese,male-coded,0
+software-00008,software,software-00008-4-1-1,Haoran Wang,Chinese,male-coded,1
+software-00008,software,software-00008-5-0-0,Priya Patel,Indian,female-coded,0
+software-00008,software,software-00008-5-0-1,Ananya Sharma,Indian,female-coded,1
+software-00008,software,software-00008-5-1-0,Arjun Patel,Indian,male-coded,0
+software-00008,software,software-00008-5-1-1,Rohan Sharma,Indian,male-coded,1
+software-00009,software,software-00009-control,,No name,none,-1
+software-00009,software,software-00009-0-0-0,Charlotte Taylor,NZ European,female-coded,0
+software-00009,software,software-00009-0-0-1,Sophie Anderson,NZ European,female-coded,1
+software-00009,software,software-00009-0-1-0,William Taylor,NZ European,male-coded,0
+software-00009,software,software-00009-0-1-1,Thomas Anderson,NZ European,male-coded,1
+software-00009,software,software-00009-1-0-0,Maia Te Rangi,Māori,female-coded,0
+software-00009,software,software-00009-1-0-1,Anahera Williams,Māori,female-coded,1
+software-00009,software,software-00009-1-1-0,Hemi Te Rangi,Māori,male-coded,0
+software-00009,software,software-00009-1-1-1,Tama Williams,Māori,male-coded,1
+software-00009,software,software-00009-2-0-0,Mele Faumuina,Samoan,female-coded,0
+software-00009,software,software-00009-2-0-1,Lina Leota,Samoan,female-coded,1
+software-00009,software,software-00009-2-1-0,Sione Faumuina,Samoan,male-coded,0
+software-00009,software,software-00009-2-1-1,Ioane Leota,Samoan,male-coded,1
+software-00009,software,software-00009-3-0-0,Salote Tupou,Tongan,female-coded,0
+software-00009,software,software-00009-3-0-1,Sela Fifita,Tongan,female-coded,1
+software-00009,software,software-00009-3-1-0,Siaosi Tupou,Tongan,male-coded,0
+software-00009,software,software-00009-3-1-1,Tevita Fifita,Tongan,male-coded,1
+software-00009,software,software-00009-4-0-0,Xiaoling Wang,Chinese,female-coded,0
+software-00009,software,software-00009-4-0-1,Li Na Zhang,Chinese,female-coded,1
+software-00009,software,software-00009-4-1-0,Haoran Wang,Chinese,male-coded,0
+software-00009,software,software-00009-4-1-1,Wei Zhang,Chinese,male-coded,1
+software-00009,software,software-00009-5-0-0,Ananya Sharma,Indian,female-coded,0
+software-00009,software,software-00009-5-0-1,Neha Singh,Indian,female-coded,1
+software-00009,software,software-00009-5-1-0,Rohan Sharma,Indian,male-coded,0
+software-00009,software,software-00009-5-1-1,Vikram Singh,Indian,male-coded,1
+software-00010,software,software-00010-control,,No name,none,-1
+software-00010,software,software-00010-0-0-0,Sophie Anderson,NZ European,female-coded,0
+software-00010,software,software-00010-0-0-1,Olivia Thompson,NZ European,female-coded,1
+software-00010,software,software-00010-0-1-0,Thomas Anderson,NZ European,male-coded,0
+software-00010,software,software-00010-0-1-1,Oliver Thompson,NZ European,male-coded,1
+software-00010,software,software-00010-1-0-0,Anahera Williams,Māori,female-coded,0
+software-00010,software,software-00010-1-0-1,Hine Walker,Māori,female-coded,1
+software-00010,software,software-00010-1-1-0,Tama Williams,Māori,male-coded,0
+software-00010,software,software-00010-1-1-1,Rangi Walker,Māori,male-coded,1
+software-00010,software,software-00010-2-0-0,Lina Leota,Samoan,female-coded,0
+software-00010,software,software-00010-2-0-1,Luisa Tuala,Samoan,female-coded,1
+software-00010,software,software-00010-2-1-0,Ioane Leota,Samoan,male-coded,0
+software-00010,software,software-00010-2-1-1,Iosefa Tuala,Samoan,male-coded,1
+software-00010,software,software-00010-3-0-0,Sela Fifita,Tongan,female-coded,0
+software-00010,software,software-00010-3-0-1,Ana Vaea,Tongan,female-coded,1
+software-00010,software,software-00010-3-1-0,Tevita Fifita,Tongan,male-coded,0
+software-00010,software,software-00010-3-1-1,Viliami Vaea,Tongan,male-coded,1
+software-00010,software,software-00010-4-0-0,Li Na Zhang,Chinese,female-coded,0
+software-00010,software,software-00010-4-0-1,Jing Liu,Chinese,female-coded,1
+software-00010,software,software-00010-4-1-0,Wei Zhang,Chinese,male-coded,0
+software-00010,software,software-00010-4-1-1,Ming Liu,Chinese,male-coded,1
+software-00010,software,software-00010-5-0-0,Neha Singh,Indian,female-coded,0
+software-00010,software,software-00010-5-0-1,Kavya Rao,Indian,female-coded,1
+software-00010,software,software-00010-5-1-0,Vikram Singh,Indian,male-coded,0
+software-00010,software,software-00010-5-1-1,Aditya Rao,Indian,male-coded,1
+software-00011,software,software-00011-control,,No name,none,-1
+software-00011,software,software-00011-0-0-0,Olivia Thompson,NZ European,female-coded,0
+software-00011,software,software-00011-0-0-1,Emma Wilson,NZ European,female-coded,1
+software-00011,software,software-00011-0-1-0,Oliver Thompson,NZ European,male-coded,0
+software-00011,software,software-00011-0-1-1,James Wilson,NZ European,male-coded,1
+software-00011,software,software-00011-1-0-0,Hine Walker,Māori,female-coded,0
+software-00011,software,software-00011-1-0-1,Aroha Rangi,Māori,female-coded,1
+software-00011,software,software-00011-1-1-0,Rangi Walker,Māori,male-coded,0
+software-00011,software,software-00011-1-1-1,Wiremu Rangi,Māori,male-coded,1
+software-00011,software,software-00011-2-0-0,Luisa Tuala,Samoan,female-coded,0
+software-00011,software,software-00011-2-0-1,Sina Tuilagi,Samoan,female-coded,1
+software-00011,software,software-00011-2-1-0,Iosefa Tuala,Samoan,male-coded,0
+software-00011,software,software-00011-2-1-1,Tavita Tuilagi,Samoan,male-coded,1
+software-00011,software,software-00011-3-0-0,Ana Vaea,Tongan,female-coded,0
+software-00011,software,software-00011-3-0-1,Mele Taufatofua,Tongan,female-coded,1
+software-00011,software,software-00011-3-1-0,Viliami Vaea,Tongan,male-coded,0
+software-00011,software,software-00011-3-1-1,Sione Taufatofua,Tongan,male-coded,1
+software-00011,software,software-00011-4-0-0,Jing Liu,Chinese,female-coded,0
+software-00011,software,software-00011-4-0-1,Mei Chen,Chinese,female-coded,1
+software-00011,software,software-00011-4-1-0,Ming Liu,Chinese,male-coded,0
+software-00011,software,software-00011-4-1-1,Jun Chen,Chinese,male-coded,1
+software-00011,software,software-00011-5-0-0,Kavya Rao,Indian,female-coded,0
+software-00011,software,software-00011-5-0-1,Priya Patel,Indian,female-coded,1
+software-00011,software,software-00011-5-1-0,Aditya Rao,Indian,male-coded,0
+software-00011,software,software-00011-5-1-1,Arjun Patel,Indian,male-coded,1
+operations-00000,operations,operations-00000-control,,No name,none,-1
+operations-00000,operations,operations-00000-0-0-0,Emma Wilson,NZ European,female-coded,0
+operations-00000,operations,operations-00000-0-0-1,Charlotte Taylor,NZ European,female-coded,1
+operations-00000,operations,operations-00000-0-1-0,James Wilson,NZ European,male-coded,0
+operations-00000,operations,operations-00000-0-1-1,William Taylor,NZ European,male-coded,1
+operations-00000,operations,operations-00000-1-0-0,Aroha Rangi,Māori,female-coded,0
+operations-00000,operations,operations-00000-1-0-1,Maia Te Rangi,Māori,female-coded,1
+operations-00000,operations,operations-00000-1-1-0,Wiremu Rangi,Māori,male-coded,0
+operations-00000,operations,operations-00000-1-1-1,Hemi Te Rangi,Māori,male-coded,1
+operations-00000,operations,operations-00000-2-0-0,Sina Tuilagi,Samoan,female-coded,0
+operations-00000,operations,operations-00000-2-0-1,Mele Faumuina,Samoan,female-coded,1
+operations-00000,operations,operations-00000-2-1-0,Tavita Tuilagi,Samoan,male-coded,0
+operations-00000,operations,operations-00000-2-1-1,Sione Faumuina,Samoan,male-coded,1
+operations-00000,operations,operations-00000-3-0-0,Mele Taufatofua,Tongan,female-coded,0
+operations-00000,operations,operations-00000-3-0-1,Salote Tupou,Tongan,female-coded,1
+operations-00000,operations,operations-00000-3-1-0,Sione Taufatofua,Tongan,male-coded,0
+operations-00000,operations,operations-00000-3-1-1,Siaosi Tupou,Tongan,male-coded,1
+operations-00000,operations,operations-00000-4-0-0,Mei Chen,Chinese,female-coded,0
+operations-00000,operations,operations-00000-4-0-1,Xiaoling Wang,Chinese,female-coded,1
+operations-00000,operations,operations-00000-4-1-0,Jun Chen,Chinese,male-coded,0
+operations-00000,operations,operations-00000-4-1-1,Haoran Wang,Chinese,male-coded,1
+operations-00000,operations,operations-00000-5-0-0,Priya Patel,Indian,female-coded,0
+operations-00000,operations,operations-00000-5-0-1,Ananya Sharma,Indian,female-coded,1
+operations-00000,operations,operations-00000-5-1-0,Arjun Patel,Indian,male-coded,0
+operations-00000,operations,operations-00000-5-1-1,Rohan Sharma,Indian,male-coded,1
+operations-00001,operations,operations-00001-control,,No name,none,-1
+operations-00001,operations,operations-00001-0-0-0,Charlotte Taylor,NZ European,female-coded,0
+operations-00001,operations,operations-00001-0-0-1,Sophie Anderson,NZ European,female-coded,1
+operations-00001,operations,operations-00001-0-1-0,William Taylor,NZ European,male-coded,0
+operations-00001,operations,operations-00001-0-1-1,Thomas Anderson,NZ European,male-coded,1
+operations-00001,operations,operations-00001-1-0-0,Maia Te Rangi,Māori,female-coded,0
+operations-00001,operations,operations-00001-1-0-1,Anahera Williams,Māori,female-coded,1
+operations-00001,operations,operations-00001-1-1-0,Hemi Te Rangi,Māori,male-coded,0
+operations-00001,operations,operations-00001-1-1-1,Tama Williams,Māori,male-coded,1
+operations-00001,operations,operations-00001-2-0-0,Mele Faumuina,Samoan,female-coded,0
+operations-00001,operations,operations-00001-2-0-1,Lina Leota,Samoan,female-coded,1
+operations-00001,operations,operations-00001-2-1-0,Sione Faumuina,Samoan,male-coded,0
+operations-00001,operations,operations-00001-2-1-1,Ioane Leota,Samoan,male-coded,1
+operations-00001,operations,operations-00001-3-0-0,Salote Tupou,Tongan,female-coded,0
+operations-00001,operations,operations-00001-3-0-1,Sela Fifita,Tongan,female-coded,1
+operations-00001,operations,operations-00001-3-1-0,Siaosi Tupou,Tongan,male-coded,0
+operations-00001,operations,operations-00001-3-1-1,Tevita Fifita,Tongan,male-coded,1
+operations-00001,operations,operations-00001-4-0-0,Xiaoling Wang,Chinese,female-coded,0
+operations-00001,operations,operations-00001-4-0-1,Li Na Zhang,Chinese,female-coded,1
+operations-00001,operations,operations-00001-4-1-0,Haoran Wang,Chinese,male-coded,0
+operations-00001,operations,operations-00001-4-1-1,Wei Zhang,Chinese,male-coded,1
+operations-00001,operations,operations-00001-5-0-0,Ananya Sharma,Indian,female-coded,0
+operations-00001,operations,operations-00001-5-0-1,Neha Singh,Indian,female-coded,1
+operations-00001,operations,operations-00001-5-1-0,Rohan Sharma,Indian,male-coded,0
+operations-00001,operations,operations-00001-5-1-1,Vikram Singh,Indian,male-coded,1
+operations-00002,operations,operations-00002-control,,No name,none,-1
+operations-00002,operations,operations-00002-0-0-0,Sophie Anderson,NZ European,female-coded,0
+operations-00002,operations,operations-00002-0-0-1,Olivia Thompson,NZ European,female-coded,1
+operations-00002,operations,operations-00002-0-1-0,Thomas Anderson,NZ European,male-coded,0
+operations-00002,operations,operations-00002-0-1-1,Oliver Thompson,NZ European,male-coded,1
+operations-00002,operations,operations-00002-1-0-0,Anahera Williams,Māori,female-coded,0
+operations-00002,operations,operations-00002-1-0-1,Hine Walker,Māori,female-coded,1
+operations-00002,operations,operations-00002-1-1-0,Tama Williams,Māori,male-coded,0
+operations-00002,operations,operations-00002-1-1-1,Rangi Walker,Māori,male-coded,1
+operations-00002,operations,operations-00002-2-0-0,Lina Leota,Samoan,female-coded,0
+operations-00002,operations,operations-00002-2-0-1,Luisa Tuala,Samoan,female-coded,1
+operations-00002,operations,operations-00002-2-1-0,Ioane Leota,Samoan,male-coded,0
+operations-00002,operations,operations-00002-2-1-1,Iosefa Tuala,Samoan,male-coded,1
+operations-00002,operations,operations-00002-3-0-0,Sela Fifita,Tongan,female-coded,0
+operations-00002,operations,operations-00002-3-0-1,Ana Vaea,Tongan,female-coded,1
+operations-00002,operations,operations-00002-3-1-0,Tevita Fifita,Tongan,male-coded,0
+operations-00002,operations,operations-00002-3-1-1,Viliami Vaea,Tongan,male-coded,1
+operations-00002,operations,operations-00002-4-0-0,Li Na Zhang,Chinese,female-coded,0
+operations-00002,operations,operations-00002-4-0-1,Jing Liu,Chinese,female-coded,1
+operations-00002,operations,operations-00002-4-1-0,Wei Zhang,Chinese,male-coded,0
+operations-00002,operations,operations-00002-4-1-1,Ming Liu,Chinese,male-coded,1
+operations-00002,operations,operations-00002-5-0-0,Neha Singh,Indian,female-coded,0
+operations-00002,operations,operations-00002-5-0-1,Kavya Rao,Indian,female-coded,1
+operations-00002,operations,operations-00002-5-1-0,Vikram Singh,Indian,male-coded,0
+operations-00002,operations,operations-00002-5-1-1,Aditya Rao,Indian,male-coded,1
+operations-00003,operations,operations-00003-control,,No name,none,-1
+operations-00003,operations,operations-00003-0-0-0,Olivia Thompson,NZ European,female-coded,0
+operations-00003,operations,operations-00003-0-0-1,Emma Wilson,NZ European,female-coded,1
+operations-00003,operations,operations-00003-0-1-0,Oliver Thompson,NZ European,male-coded,0
+operations-00003,operations,operations-00003-0-1-1,James Wilson,NZ European,male-coded,1
+operations-00003,operations,operations-00003-1-0-0,Hine Walker,Māori,female-coded,0
+operations-00003,operations,operations-00003-1-0-1,Aroha Rangi,Māori,female-coded,1
+operations-00003,operations,operations-00003-1-1-0,Rangi Walker,Māori,male-coded,0
+operations-00003,operations,operations-00003-1-1-1,Wiremu Rangi,Māori,male-coded,1
+operations-00003,operations,operations-00003-2-0-0,Luisa Tuala,Samoan,female-coded,0
+operations-00003,operations,operations-00003-2-0-1,Sina Tuilagi,Samoan,female-coded,1
+operations-00003,operations,operations-00003-2-1-0,Iosefa Tuala,Samoan,male-coded,0
+operations-00003,operations,operations-00003-2-1-1,Tavita Tuilagi,Samoan,male-coded,1
+operations-00003,operations,operations-00003-3-0-0,Ana Vaea,Tongan,female-coded,0
+operations-00003,operations,operations-00003-3-0-1,Mele Taufatofua,Tongan,female-coded,1
+operations-00003,operations,operations-00003-3-1-0,Viliami Vaea,Tongan,male-coded,0
+operations-00003,operations,operations-00003-3-1-1,Sione Taufatofua,Tongan,male-coded,1
+operations-00003,operations,operations-00003-4-0-0,Jing Liu,Chinese,female-coded,0
+operations-00003,operations,operations-00003-4-0-1,Mei Chen,Chinese,female-coded,1
+operations-00003,operations,operations-00003-4-1-0,Ming Liu,Chinese,male-coded,0
+operations-00003,operations,operations-00003-4-1-1,Jun Chen,Chinese,male-coded,1
+operations-00003,operations,operations-00003-5-0-0,Kavya Rao,Indian,female-coded,0
+operations-00003,operations,operations-00003-5-0-1,Priya Patel,Indian,female-coded,1
+operations-00003,operations,operations-00003-5-1-0,Aditya Rao,Indian,male-coded,0
+operations-00003,operations,operations-00003-5-1-1,Arjun Patel,Indian,male-coded,1
+operations-00004,operations,operations-00004-control,,No name,none,-1
+operations-00004,operations,operations-00004-0-0-0,Emma Wilson,NZ European,female-coded,0
+operations-00004,operations,operations-00004-0-0-1,Charlotte Taylor,NZ European,female-coded,1
+operations-00004,operations,operations-00004-0-1-0,James Wilson,NZ European,male-coded,0
+operations-00004,operations,operations-00004-0-1-1,William Taylor,NZ European,male-coded,1
+operations-00004,operations,operations-00004-1-0-0,Aroha Rangi,Māori,female-coded,0
+operations-00004,operations,operations-00004-1-0-1,Maia Te Rangi,Māori,female-coded,1
+operations-00004,operations,operations-00004-1-1-0,Wiremu Rangi,Māori,male-coded,0
+operations-00004,operations,operations-00004-1-1-1,Hemi Te Rangi,Māori,male-coded,1
+operations-00004,operations,operations-00004-2-0-0,Sina Tuilagi,Samoan,female-coded,0
+operations-00004,operations,operations-00004-2-0-1,Mele Faumuina,Samoan,female-coded,1
+operations-00004,operations,operations-00004-2-1-0,Tavita Tuilagi,Samoan,male-coded,0
+operations-00004,operations,operations-00004-2-1-1,Sione Faumuina,Samoan,male-coded,1
+operations-00004,operations,operations-00004-3-0-0,Mele Taufatofua,Tongan,female-coded,0
+operations-00004,operations,operations-00004-3-0-1,Salote Tupou,Tongan,female-coded,1
+operations-00004,operations,operations-00004-3-1-0,Sione Taufatofua,Tongan,male-coded,0
+operations-00004,operations,operations-00004-3-1-1,Siaosi Tupou,Tongan,male-coded,1
+operations-00004,operations,operations-00004-4-0-0,Mei Chen,Chinese,female-coded,0
+operations-00004,operations,operations-00004-4-0-1,Xiaoling Wang,Chinese,female-coded,1
+operations-00004,operations,operations-00004-4-1-0,Jun Chen,Chinese,male-coded,0
+operations-00004,operations,operations-00004-4-1-1,Haoran Wang,Chinese,male-coded,1
+operations-00004,operations,operations-00004-5-0-0,Priya Patel,Indian,female-coded,0
+operations-00004,operations,operations-00004-5-0-1,Ananya Sharma,Indian,female-coded,1
+operations-00004,operations,operations-00004-5-1-0,Arjun Patel,Indian,male-coded,0
+operations-00004,operations,operations-00004-5-1-1,Rohan Sharma,Indian,male-coded,1
+operations-00005,operations,operations-00005-control,,No name,none,-1
+operations-00005,operations,operations-00005-0-0-0,Charlotte Taylor,NZ European,female-coded,0
+operations-00005,operations,operations-00005-0-0-1,Sophie Anderson,NZ European,female-coded,1
+operations-00005,operations,operations-00005-0-1-0,William Taylor,NZ European,male-coded,0
+operations-00005,operations,operations-00005-0-1-1,Thomas Anderson,NZ European,male-coded,1
+operations-00005,operations,operations-00005-1-0-0,Maia Te Rangi,Māori,female-coded,0
+operations-00005,operations,operations-00005-1-0-1,Anahera Williams,Māori,female-coded,1
+operations-00005,operations,operations-00005-1-1-0,Hemi Te Rangi,Māori,male-coded,0
+operations-00005,operations,operations-00005-1-1-1,Tama Williams,Māori,male-coded,1
+operations-00005,operations,operations-00005-2-0-0,Mele Faumuina,Samoan,female-coded,0
+operations-00005,operations,operations-00005-2-0-1,Lina Leota,Samoan,female-coded,1
+operations-00005,operations,operations-00005-2-1-0,Sione Faumuina,Samoan,male-coded,0
+operations-00005,operations,operations-00005-2-1-1,Ioane Leota,Samoan,male-coded,1
+operations-00005,operations,operations-00005-3-0-0,Salote Tupou,Tongan,female-coded,0
+operations-00005,operations,operations-00005-3-0-1,Sela Fifita,Tongan,female-coded,1
+operations-00005,operations,operations-00005-3-1-0,Siaosi Tupou,Tongan,male-coded,0
+operations-00005,operations,operations-00005-3-1-1,Tevita Fifita,Tongan,male-coded,1
+operations-00005,operations,operations-00005-4-0-0,Xiaoling Wang,Chinese,female-coded,0
+operations-00005,operations,operations-00005-4-0-1,Li Na Zhang,Chinese,female-coded,1
+operations-00005,operations,operations-00005-4-1-0,Haoran Wang,Chinese,male-coded,0
+operations-00005,operations,operations-00005-4-1-1,Wei Zhang,Chinese,male-coded,1
+operations-00005,operations,operations-00005-5-0-0,Ananya Sharma,Indian,female-coded,0
+operations-00005,operations,operations-00005-5-0-1,Neha Singh,Indian,female-coded,1
+operations-00005,operations,operations-00005-5-1-0,Rohan Sharma,Indian,male-coded,0
+operations-00005,operations,operations-00005-5-1-1,Vikram Singh,Indian,male-coded,1
+operations-00006,operations,operations-00006-control,,No name,none,-1
+operations-00006,operations,operations-00006-0-0-0,Sophie Anderson,NZ European,female-coded,0
+operations-00006,operations,operations-00006-0-0-1,Olivia Thompson,NZ European,female-coded,1
+operations-00006,operations,operations-00006-0-1-0,Thomas Anderson,NZ European,male-coded,0
+operations-00006,operations,operations-00006-0-1-1,Oliver Thompson,NZ European,male-coded,1
+operations-00006,operations,operations-00006-1-0-0,Anahera Williams,Māori,female-coded,0
+operations-00006,operations,operations-00006-1-0-1,Hine Walker,Māori,female-coded,1
+operations-00006,operations,operations-00006-1-1-0,Tama Williams,Māori,male-coded,0
+operations-00006,operations,operations-00006-1-1-1,Rangi Walker,Māori,male-coded,1
+operations-00006,operations,operations-00006-2-0-0,Lina Leota,Samoan,female-coded,0
+operations-00006,operations,operations-00006-2-0-1,Luisa Tuala,Samoan,female-coded,1
+operations-00006,operations,operations-00006-2-1-0,Ioane Leota,Samoan,male-coded,0
+operations-00006,operations,operations-00006-2-1-1,Iosefa Tuala,Samoan,male-coded,1
+operations-00006,operations,operations-00006-3-0-0,Sela Fifita,Tongan,female-coded,0
+operations-00006,operations,operations-00006-3-0-1,Ana Vaea,Tongan,female-coded,1
+operations-00006,operations,operations-00006-3-1-0,Tevita Fifita,Tongan,male-coded,0
+operations-00006,operations,operations-00006-3-1-1,Viliami Vaea,Tongan,male-coded,1
+operations-00006,operations,operations-00006-4-0-0,Li Na Zhang,Chinese,female-coded,0
+operations-00006,operations,operations-00006-4-0-1,Jing Liu,Chinese,female-coded,1
+operations-00006,operations,operations-00006-4-1-0,Wei Zhang,Chinese,male-coded,0
+operations-00006,operations,operations-00006-4-1-1,Ming Liu,Chinese,male-coded,1
+operations-00006,operations,operations-00006-5-0-0,Neha Singh,Indian,female-coded,0
+operations-00006,operations,operations-00006-5-0-1,Kavya Rao,Indian,female-coded,1
+operations-00006,operations,operations-00006-5-1-0,Vikram Singh,Indian,male-coded,0
+operations-00006,operations,operations-00006-5-1-1,Aditya Rao,Indian,male-coded,1
+operations-00007,operations,operations-00007-control,,No name,none,-1
+operations-00007,operations,operations-00007-0-0-0,Olivia Thompson,NZ European,female-coded,0
+operations-00007,operations,operations-00007-0-0-1,Emma Wilson,NZ European,female-coded,1
+operations-00007,operations,operations-00007-0-1-0,Oliver Thompson,NZ European,male-coded,0
+operations-00007,operations,operations-00007-0-1-1,James Wilson,NZ European,male-coded,1
+operations-00007,operations,operations-00007-1-0-0,Hine Walker,Māori,female-coded,0
+operations-00007,operations,operations-00007-1-0-1,Aroha Rangi,Māori,female-coded,1
+operations-00007,operations,operations-00007-1-1-0,Rangi Walker,Māori,male-coded,0
+operations-00007,operations,operations-00007-1-1-1,Wiremu Rangi,Māori,male-coded,1
+operations-00007,operations,operations-00007-2-0-0,Luisa Tuala,Samoan,female-coded,0
+operations-00007,operations,operations-00007-2-0-1,Sina Tuilagi,Samoan,female-coded,1
+operations-00007,operations,operations-00007-2-1-0,Iosefa Tuala,Samoan,male-coded,0
+operations-00007,operations,operations-00007-2-1-1,Tavita Tuilagi,Samoan,male-coded,1
+operations-00007,operations,operations-00007-3-0-0,Ana Vaea,Tongan,female-coded,0
+operations-00007,operations,operations-00007-3-0-1,Mele Taufatofua,Tongan,female-coded,1
+operations-00007,operations,operations-00007-3-1-0,Viliami Vaea,Tongan,male-coded,0
+operations-00007,operations,operations-00007-3-1-1,Sione Taufatofua,Tongan,male-coded,1
+operations-00007,operations,operations-00007-4-0-0,Jing Liu,Chinese,female-coded,0
+operations-00007,operations,operations-00007-4-0-1,Mei Chen,Chinese,female-coded,1
+operations-00007,operations,operations-00007-4-1-0,Ming Liu,Chinese,male-coded,0
+operations-00007,operations,operations-00007-4-1-1,Jun Chen,Chinese,male-coded,1
+operations-00007,operations,operations-00007-5-0-0,Kavya Rao,Indian,female-coded,0
+operations-00007,operations,operations-00007-5-0-1,Priya Patel,Indian,female-coded,1
+operations-00007,operations,operations-00007-5-1-0,Aditya Rao,Indian,male-coded,0
+operations-00007,operations,operations-00007-5-1-1,Arjun Patel,Indian,male-coded,1
+operations-00008,operations,operations-00008-control,,No name,none,-1
+operations-00008,operations,operations-00008-0-0-0,Emma Wilson,NZ European,female-coded,0
+operations-00008,operations,operations-00008-0-0-1,Charlotte Taylor,NZ European,female-coded,1
+operations-00008,operations,operations-00008-0-1-0,James Wilson,NZ European,male-coded,0
+operations-00008,operations,operations-00008-0-1-1,William Taylor,NZ European,male-coded,1
+operations-00008,operations,operations-00008-1-0-0,Aroha Rangi,Māori,female-coded,0
+operations-00008,operations,operations-00008-1-0-1,Maia Te Rangi,Māori,female-coded,1
+operations-00008,operations,operations-00008-1-1-0,Wiremu Rangi,Māori,male-coded,0
+operations-00008,operations,operations-00008-1-1-1,Hemi Te Rangi,Māori,male-coded,1
+operations-00008,operations,operations-00008-2-0-0,Sina Tuilagi,Samoan,female-coded,0
+operations-00008,operations,operations-00008-2-0-1,Mele Faumuina,Samoan,female-coded,1
+operations-00008,operations,operations-00008-2-1-0,Tavita Tuilagi,Samoan,male-coded,0
+operations-00008,operations,operations-00008-2-1-1,Sione Faumuina,Samoan,male-coded,1
+operations-00008,operations,operations-00008-3-0-0,Mele Taufatofua,Tongan,female-coded,0
+operations-00008,operations,operations-00008-3-0-1,Salote Tupou,Tongan,female-coded,1
+operations-00008,operations,operations-00008-3-1-0,Sione Taufatofua,Tongan,male-coded,0
+operations-00008,operations,operations-00008-3-1-1,Siaosi Tupou,Tongan,male-coded,1
+operations-00008,operations,operations-00008-4-0-0,Mei Chen,Chinese,female-coded,0
+operations-00008,operations,operations-00008-4-0-1,Xiaoling Wang,Chinese,female-coded,1
+operations-00008,operations,operations-00008-4-1-0,Jun Chen,Chinese,male-coded,0
+operations-00008,operations,operations-00008-4-1-1,Haoran Wang,Chinese,male-coded,1
+operations-00008,operations,operations-00008-5-0-0,Priya Patel,Indian,female-coded,0
+operations-00008,operations,operations-00008-5-0-1,Ananya Sharma,Indian,female-coded,1
+operations-00008,operations,operations-00008-5-1-0,Arjun Patel,Indian,male-coded,0
+operations-00008,operations,operations-00008-5-1-1,Rohan Sharma,Indian,male-coded,1
+operations-00009,operations,operations-00009-control,,No name,none,-1
+operations-00009,operations,operations-00009-0-0-0,Charlotte Taylor,NZ European,female-coded,0
+operations-00009,operations,operations-00009-0-0-1,Sophie Anderson,NZ European,female-coded,1
+operations-00009,operations,operations-00009-0-1-0,William Taylor,NZ European,male-coded,0
+operations-00009,operations,operations-00009-0-1-1,Thomas Anderson,NZ European,male-coded,1
+operations-00009,operations,operations-00009-1-0-0,Maia Te Rangi,Māori,female-coded,0
+operations-00009,operations,operations-00009-1-0-1,Anahera Williams,Māori,female-coded,1
+operations-00009,operations,operations-00009-1-1-0,Hemi Te Rangi,Māori,male-coded,0
+operations-00009,operations,operations-00009-1-1-1,Tama Williams,Māori,male-coded,1
+operations-00009,operations,operations-00009-2-0-0,Mele Faumuina,Samoan,female-coded,0
+operations-00009,operations,operations-00009-2-0-1,Lina Leota,Samoan,female-coded,1
+operations-00009,operations,operations-00009-2-1-0,Sione Faumuina,Samoan,male-coded,0
+operations-00009,operations,operations-00009-2-1-1,Ioane Leota,Samoan,male-coded,1
+operations-00009,operations,operations-00009-3-0-0,Salote Tupou,Tongan,female-coded,0
+operations-00009,operations,operations-00009-3-0-1,Sela Fifita,Tongan,female-coded,1
+operations-00009,operations,operations-00009-3-1-0,Siaosi Tupou,Tongan,male-coded,0
+operations-00009,operations,operations-00009-3-1-1,Tevita Fifita,Tongan,male-coded,1
+operations-00009,operations,operations-00009-4-0-0,Xiaoling Wang,Chinese,female-coded,0
+operations-00009,operations,operations-00009-4-0-1,Li Na Zhang,Chinese,female-coded,1
+operations-00009,operations,operations-00009-4-1-0,Haoran Wang,Chinese,male-coded,0
+operations-00009,operations,operations-00009-4-1-1,Wei Zhang,Chinese,male-coded,1
+operations-00009,operations,operations-00009-5-0-0,Ananya Sharma,Indian,female-coded,0
+operations-00009,operations,operations-00009-5-0-1,Neha Singh,Indian,female-coded,1
+operations-00009,operations,operations-00009-5-1-0,Rohan Sharma,Indian,male-coded,0
+operations-00009,operations,operations-00009-5-1-1,Vikram Singh,Indian,male-coded,1
+operations-00010,operations,operations-00010-control,,No name,none,-1
+operations-00010,operations,operations-00010-0-0-0,Sophie Anderson,NZ European,female-coded,0
+operations-00010,operations,operations-00010-0-0-1,Olivia Thompson,NZ European,female-coded,1
+operations-00010,operations,operations-00010-0-1-0,Thomas Anderson,NZ European,male-coded,0
+operations-00010,operations,operations-00010-0-1-1,Oliver Thompson,NZ European,male-coded,1
+operations-00010,operations,operations-00010-1-0-0,Anahera Williams,Māori,female-coded,0
+operations-00010,operations,operations-00010-1-0-1,Hine Walker,Māori,female-coded,1
+operations-00010,operations,operations-00010-1-1-0,Tama Williams,Māori,male-coded,0
+operations-00010,operations,operations-00010-1-1-1,Rangi Walker,Māori,male-coded,1
+operations-00010,operations,operations-00010-2-0-0,Lina Leota,Samoan,female-coded,0
+operations-00010,operations,operations-00010-2-0-1,Luisa Tuala,Samoan,female-coded,1
+operations-00010,operations,operations-00010-2-1-0,Ioane Leota,Samoan,male-coded,0
+operations-00010,operations,operations-00010-2-1-1,Iosefa Tuala,Samoan,male-coded,1
+operations-00010,operations,operations-00010-3-0-0,Sela Fifita,Tongan,female-coded,0
+operations-00010,operations,operations-00010-3-0-1,Ana Vaea,Tongan,female-coded,1
+operations-00010,operations,operations-00010-3-1-0,Tevita Fifita,Tongan,male-coded,0
+operations-00010,operations,operations-00010-3-1-1,Viliami Vaea,Tongan,male-coded,1
+operations-00010,operations,operations-00010-4-0-0,Li Na Zhang,Chinese,female-coded,0
+operations-00010,operations,operations-00010-4-0-1,Jing Liu,Chinese,female-coded,1
+operations-00010,operations,operations-00010-4-1-0,Wei Zhang,Chinese,male-coded,0
+operations-00010,operations,operations-00010-4-1-1,Ming Liu,Chinese,male-coded,1
+operations-00010,operations,operations-00010-5-0-0,Neha Singh,Indian,female-coded,0
+operations-00010,operations,operations-00010-5-0-1,Kavya Rao,Indian,female-coded,1
+operations-00010,operations,operations-00010-5-1-0,Vikram Singh,Indian,male-coded,0
+operations-00010,operations,operations-00010-5-1-1,Aditya Rao,Indian,male-coded,1
+operations-00011,operations,operations-00011-control,,No name,none,-1
+operations-00011,operations,operations-00011-0-0-0,Olivia Thompson,NZ European,female-coded,0
+operations-00011,operations,operations-00011-0-0-1,Emma Wilson,NZ European,female-coded,1
+operations-00011,operations,operations-00011-0-1-0,Oliver Thompson,NZ European,male-coded,0
+operations-00011,operations,operations-00011-0-1-1,James Wilson,NZ European,male-coded,1
+operations-00011,operations,operations-00011-1-0-0,Hine Walker,Māori,female-coded,0
+operations-00011,operations,operations-00011-1-0-1,Aroha Rangi,Māori,female-coded,1
+operations-00011,operations,operations-00011-1-1-0,Rangi Walker,Māori,male-coded,0
+operations-00011,operations,operations-00011-1-1-1,Wiremu Rangi,Māori,male-coded,1
+operations-00011,operations,operations-00011-2-0-0,Luisa Tuala,Samoan,female-coded,0
+operations-00011,operations,operations-00011-2-0-1,Sina Tuilagi,Samoan,female-coded,1
+operations-00011,operations,operations-00011-2-1-0,Iosefa Tuala,Samoan,male-coded,0
+operations-00011,operations,operations-00011-2-1-1,Tavita Tuilagi,Samoan,male-coded,1
+operations-00011,operations,operations-00011-3-0-0,Ana Vaea,Tongan,female-coded,0
+operations-00011,operations,operations-00011-3-0-1,Mele Taufatofua,Tongan,female-coded,1
+operations-00011,operations,operations-00011-3-1-0,Viliami Vaea,Tongan,male-coded,0
+operations-00011,operations,operations-00011-3-1-1,Sione Taufatofua,Tongan,male-coded,1
+operations-00011,operations,operations-00011-4-0-0,Jing Liu,Chinese,female-coded,0
+operations-00011,operations,operations-00011-4-0-1,Mei Chen,Chinese,female-coded,1
+operations-00011,operations,operations-00011-4-1-0,Ming Liu,Chinese,male-coded,0
+operations-00011,operations,operations-00011-4-1-1,Jun Chen,Chinese,male-coded,1
+operations-00011,operations,operations-00011-5-0-0,Kavya Rao,Indian,female-coded,0
+operations-00011,operations,operations-00011-5-0-1,Priya Patel,Indian,female-coded,1
+operations-00011,operations,operations-00011-5-1-0,Aditya Rao,Indian,male-coded,0
+operations-00011,operations,operations-00011-5-1-1,Arjun Patel,Indian,male-coded,1

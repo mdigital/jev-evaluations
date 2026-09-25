@@ -1,0 +1,3 @@
+family,levels,min,max,range,sd,argmin,argmax
+harmony,6,0.249375,0.911875,0.6625,0.2287134011781387,cooperate_defect,abstract
+prisoners_dilemma,6,0.0225,0.23875,0.21625,0.07262351786592426,commons,abstract
